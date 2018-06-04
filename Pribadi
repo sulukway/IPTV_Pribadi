@@ -102,172 +102,569 @@ http://139.59.74.143/j/Star_Sports_Select_HD_1.m3u8
 #EXTINF:-1,Star Sports Select HD 2
 http://139.59.74.143/j/Star_Sports_Select_HD_2.m3u8
 #EXTM3U
-#EXTINF:0,SKY SPORTS ACTION 1080
-http://thepk.co:2086/live/byron/12345/596.ts
-#EXTINF:0,SKY SPORTS ACTION HD
-http://thepk.co:2086/live/byron/12345/590.ts
-#EXTINF:0,SKY SPORTS ACTION SD
-http://thepk.co:2086/live/byron/12345/589.ts
-#EXTINF:0,SKY SPORTS ARENA 1080
-http://thepk.co:2086/live/byron/12345/1924.ts
-#EXTINF:0,SKY SPORTS ARENA HD
-http://thepk.co:2086/live/byron/12345/2830.ts
-#EXTINF:0,SKY SPORTS ARENA SD
-http://thepk.co:2086/live/byron/12345/2831.ts
-#EXTINF:0,SKY SPORTS CRICKET 1080
-http://thepk.co:2086/live/byron/12345/597.ts
-#EXTINF:0,SKY SPORTS CRICKET HD
-http://thepk.co:2086/live/byron/12345/592.ts
-#EXTINF:0,SKY SPORTS CRICKET SD
-http://thepk.co:2086/live/byron/12345/591.ts
-#EXTINF:0,SKY SPORTS F1 HD
-http://thepk.co:2086/live/byron/12345/585.ts
-#EXTINF:0,SKY SPORTS F1 SD
-http://thepk.co:2086/live/byron/12345/584.ts
-#EXTINF:0,SKY SPORTS FOOTBALL 1080
-http://thepk.co:2086/live/byron/12345/1923.ts
-#EXTINF:0,SKY SPORTS FOOTBALL HD
-http://thepk.co:2086/live/byron/12345/2276.ts
-#EXTINF:0,SKY SPORTS FOOTBALL SD
-http://thepk.co:2086/live/byron/12345/2277.ts
-#EXTINF:0,SKY SPORTS GOLF 1080P
-http://thepk.co:2086/live/byron/12345/2834.ts
-#EXTINF:0,SKY SPORTS GOLF HD
-http://thepk.co:2086/live/byron/12345/588.ts
-#EXTINF:0,SKY SPORTS GOLF SD
-http://thepk.co:2086/live/byron/12345/587.ts
-#EXTINF:0,SKY SPORTS MAIN EVENT HD
-http://thepk.co:2086/live/byron/12345/2833.ts
-#EXTINF:0,SKY SPORTS MAIN EVENT SD
-http://thepk.co:2086/live/byron/12345/2832.ts
-#EXTINF:0,SKY SPORTS MIX
-http://thepk.co:2086/live/byron/12345/3316.ts
-#EXTINF:0,SKY SPORTS MIX 1080
-http://thepk.co:2086/live/byron/12345/3317.ts
-#EXTINF:0,SKY SPORTS NEWS
-http://thepk.co:2086/live/byron/12345/583.ts
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE 1080
-http://thepk.co:2086/live/byron/12345/2835.ts
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE HD
-http://thepk.co:2086/live/byron/12345/586.ts
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE SD
-http://thepk.co:2086/live/byron/12345/1280.ts
-#EXTINF:0,Sky Sports F1 1080
-http://thepk.co:2086/live/byron/12345/595.ts
-#EXTINF:0,Sky Sports Main Event 1080
-http://thepk.co:2086/live/byron/12345/598.ts
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE HD
-http://wohuogai.com:58000/live/iuygijfg65746/lukhlñkjhl5674354/26808.ts
-#EXTINF:0,DE: SkySport_News_HD
-http://fullhdp.servep2p.com:3500/live/caglar.kilit/ilas.zingh.org:/15176.ts
-#EXTINF:0,Sky Sports News HQ
-http://163.172.99.155:25461/live/1234/1234/116.ts
-#EXTINF:0,Sky Sports 1
-http://163.172.99.155:25461/live/1234/1234/117.ts
-#EXTINF:0,Sky Sports 2
-http://163.172.99.155:25461/live/1234/1234/118.ts
-#EXTINF:0,Sky Sports 3
-http://163.172.99.155:25461/live/1234/1234/119.ts
-#EXTINF:0,Sky Sports 4
-http://163.172.99.155:25461/live/1234/1234/120.ts
-#EXTINF:0,Sky Sports 5
-http://163.172.99.155:25461/live/1234/1234/121.ts
-#EXTINF:0,Sky Sports F1
-http://163.172.99.155:25461/live/1234/1234/122.ts
-#EXTINF:0,DE: Sky Sport 10
-http://62.210.151.143:13000/live/11/11/25654.ts
-#EXTINF:0,DE: Sky Sport 1HD
-http://62.210.151.143:13000/live/11/11/25666.ts
-#EXTINF:0,DE: Sky Sport 2HD
-http://62.210.151.143:13000/live/11/11/25665.ts
-#EXTINF:0,DE: Sky Sport 3HD
-http://62.210.151.143:13000/live/11/11/25664.ts
-#EXTINF:0,DE: Sky Sport 4HD
-http://62.210.151.143:13000/live/11/11/25663.ts
-#EXTINF:0,DE: Sky Sport 5HD
-http://62.210.151.143:13000/live/11/11/25662.ts
-#EXTINF:0,DE: Sky Sport 6
-http://62.210.151.143:13000/live/11/11/25661.ts
-#EXTINF:0,DE: Sky Sport 7
-http://62.210.151.143:13000/live/11/11/25660.ts
-#EXTINF:0,DE: Sky Sport 8
-http://62.210.151.143:13000/live/11/11/25659.ts
-#EXTINF:0,DE: Sky Sport 9
-http://62.210.151.143:13000/live/11/11/25658.ts
-#EXTINF:0,DE: Sky Sports News HD
-http://62.210.151.143:13000/live/11/11/25667.ts
-#EXTINF:0,UK: Sky_Sport_1
-http://62.210.151.143:13000/live/11/11/25786.ts
-#EXTINF:0,UK: SKY_Sport_2
-http://62.210.151.143:13000/live/11/11/25785.ts
-#EXTINF:0,UK: Sky_Sport_2_HD
-http://62.210.151.143:13000/live/11/11/25784.ts
-#EXTINF:0,UK: Sky_Sport_3
-http://62.210.151.143:13000/live/11/11/25783.ts
-#EXTINF:0,UK: Sky_Sport_3_HD
-http://62.210.151.143:13000/live/11/11/25782.ts
-#EXTINF:0,UK: Sky_Sport_4
-http://62.210.151.143:13000/live/11/11/25781.ts
-#EXTINF:0,UK: Sky_Sport_5_HD
-http://62.210.151.143:13000/live/11/11/25780.ts
-#EXTINF:0,UK: Sky_Sport_F1_HD
-http://62.210.151.143:13000/live/11/11/25779.ts
-#EXTINF:0,UK: SKY_SPORTS_ACTION_HD
-http://62.210.151.143:13000/live/11/11/25778.ts
-#EXTINF:0,UK: SKY_SPORTS_ARENA_HD
-http://62.210.151.143:13000/live/11/11/25777.ts
-#EXTINF:0,UK: Sky_Sports_Box_Office__(_PPV_LIVE_During_live_Events_)
-http://62.210.151.143:13000/live/11/11/25776.ts
-#EXTINF:0,UK: SKY_SPORTS_CRICKET_HD
-http://62.210.151.143:13000/live/11/11/25775.ts
-#EXTINF:0,UK: SKY_SPORTS_F1_HD
-http://62.210.151.143:13000/live/11/11/25774.ts
-#EXTINF:0,UK: SKY_SPORTS_FOOTBALL_HD
-http://62.210.151.143:13000/live/11/11/25773.ts
-#EXTINF:0,UK: SKY_SPORTS_GOLF_HD
-http://62.210.151.143:13000/live/11/11/25772.ts
-#EXTINF:0,UK: SKY_SPORTS_MAIN_EVENT_HD
-http://62.210.151.143:13000/live/11/11/25771.ts
-#EXTINF:0,UK: SKY_SPORTS_MIX_HD
-http://62.210.151.143:13000/live/11/11/25770.ts
-#EXTINF:0,UK: SKY_SPORTS_NEWS_HD
-http://62.210.151.143:13000/live/11/11/25769.ts
-#EXTINF:0,UK: SKY_SPORTS_PREMIER_LEAGUE_HD
-http://62.210.151.143:13000/live/11/11/25768.ts
-#EXTINF:0,UK: SKY_SPORTS_PREMIER_LEAGUE_HD_(IRELAND)
-http://62.210.151.143:13000/live/11/11/25767.ts
-#EXTINF:0,IT: Sky Sport 1 HD
-http://62.210.151.143:13000/live/11/11/26044.ts
-#EXTINF:0,IT: Sky Sport 2 HD
-http://62.210.151.143:13000/live/11/11/26043.ts
-#EXTINF:0,IT: Sky Sport 24 HD
-http://62.210.151.143:13000/live/11/11/26042.ts
-#EXTINF:0,IT: Sky Sport 3 HD
-http://62.210.151.143:13000/live/11/11/26041.ts
-#EXTINF:0,IT: Sky Sport F1 HD
-http://62.210.151.143:13000/live/11/11/26040.ts
-#EXTINF:0,UK: SKY SPORT 1 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/94.ts
-#EXTINF:0,UK: SKY SPORT 2 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/95.ts
-#EXTINF:0,UK: SKY SPORT 3 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/96.ts
-#EXTINF:0,UK: SKY SPORT 4 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/97.ts
-#EXTINF:0,UK: SKY SPORT 5 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/98.ts
-#EXTINF:0,IT: SKY SPORT 1 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/633.ts
-#EXTINF:0,IT: SKY SPORT 2 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/634.ts
-#EXTINF:0,IT: SKY SPORT 3 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/635.ts
-#EXTINF:0,DE: SKY SPORT 1 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/623.ts
-#EXTINF:0,DE: SKY SPORT 2 HD
-http://164.132.200.17:8080/live/elcin67/elcin67/624.ts
-#EXTINF:0,DE: Sky Sport Austria HD
-http://164.132.200.17:8080/live/elcin67/elcin67/3293.ts
+#EXTINF:-1,NHK News HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/71.ts
+#EXTINF:-1,Fox News
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/72.ts
+#EXTINF:-1,Euronews
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/73.ts
+#EXTINF:-1,UK: CNN
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/12.ts
+#EXTINF:-1,Sky News UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/66.ts
+#EXTINF:-1,Sky News HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/67.ts
+#EXTINF:-1,Sky News Arabia
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/68.ts
+#EXTINF:-1,Russia Today
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/69.ts
+#EXTINF:-1,CNN
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/74.ts
+#EXTINF:-1,CNBC Europe
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/75.ts
+#EXTINF:-1,Bloomberg
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/76.ts
+#EXTINF:-1,BBC World News
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/77.ts
+#EXTINF:-1,BBC News UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/78.ts
+#EXTINF:-1,Al Jazeera News English
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/79.ts
+#EXTINF:-1,ABC News
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/80.ts
+#EXTINF:-1,Russia Today HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1940.ts
+#EXTINF:-1,VIP :MIO  ELEVEN PLUS 103 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1520.ts
+#EXTINF:-1,VIP :MIO  ELEVEN HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1519.ts
+#EXTINF:-1,VIP : MIO ELEVEN SPORTS HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1518.ts
+#EXTINF:-1,VIP : MTV LIVE HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/98.ts
+#EXTINF:-1,MUTV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/43.ts
+#EXTINF:-1,LIVERPOOL FC TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/65.ts
+#EXTINF:-1,UK: CHELSEA TV HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1543.ts
+#EXTINF:-1,UK: CELTIC FC TV (Live for Matches)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1540.ts
+#EXTINF:-1,BT SPORT EXTRA 6
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/240.ts
+#EXTINF:-1,BT SPORT EXTRA 5
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/239.ts
+#EXTINF:-1,BT SPORT EXTRA 4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/238.ts
+#EXTINF:-1,BT SPORT EXTRA 3
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/237.ts
+#EXTINF:-1,BT SPORT EXTRA 2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/236.ts
+#EXTINF:-1,BT SPORT EXTRA 1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/235.ts
+#EXTINF:-1,UK: RANGERS FC TV (Local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1539.ts
+#EXTINF:-1,BT Sport 3 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2336.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/251.ts
+#EXTINF:-1,3e
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/110.ts
+#EXTINF:-1,Animal Planet
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/509.ts
+#EXTINF:-1,BBC Alba
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1561.ts
+#EXTINF:-1,Boomerang
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/87.ts
+#EXTINF:-1,CBeebies
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/88.ts
+#EXTINF:-1,CBS Action
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/104.ts
+#EXTINF:-1,CBBC
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/89.ts
+#EXTINF:-1,UK: Disney Junior
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/84.ts
+#EXTINF:-1,Cartoonito
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/90.ts
+#EXTINF:-1,Disney Channel
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/85.ts
+#EXTINF:-1,Discovery History
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/18.ts
+#EXTINF:-1,Disney XD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/86.ts
+#EXTINF:-1,Cartoon Network UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/91.ts
+#EXTINF:-1,Baby TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/92.ts
+#EXTINF:-1,Fine Living Network
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/103.ts
+#EXTINF:-1,FOX UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/26.ts
+#EXTINF:-1,Fox HD UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/262.ts
+#EXTINF:-1,DMAX
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/101.ts
+#EXTINF:-1,GOLD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/19.ts
+#EXTINF:-1,MTV Classics
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/93.ts
+#EXTINF:-1,MTV Base HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/100.ts
+#EXTINF:-1,Sky Arts HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/40.ts
+#EXTINF:-1,MTV Hits
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/94.ts
+#EXTINF:-1,MTV Rocks HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/99.ts
+#EXTINF:-1,More 4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/102.ts
+#EXTINF:-1,Nat Geo HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/23.ts
+#EXTINF:-1,Pick
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/113.ts
+#EXTINF:-1,NickToons
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/81.ts
+#EXTINF:-1,Nick Junior
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/83.ts
+#EXTINF:-1,Nick UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/82.ts
+#EXTINF:-1,STV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1601.ts
+#EXTINF:-1,Sky Living
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/21.ts
+#EXTINF:-1,Sky Atlantic
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/39.ts
+#EXTINF:-1,MTV HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/95.ts
+#EXTINF:-1,Setanta Sports 1 / Premier Sports HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/62.ts
+#EXTINF:-1,Sky One
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/37.ts
+#EXTINF:-1,Sky One HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/263.ts
+#EXTINF:-1,Spike UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/112.ts
+#EXTINF:-1,MTV Dance
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/97.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/31.ts
+#EXTINF:-1,UK: CBS Reality
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/13.ts
+#EXTINF:-1,UK: CBS Drama
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/14.ts
+#EXTINF:-1,True Entertainment
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/34.ts
+#EXTINF:-1,Travel Channel
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/35.ts
+#EXTINF:-1,UK : RTE ONE
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/107.ts
+#EXTINF:-1,UK: 5 Star
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/17.ts
+#EXTINF:-1,UK | Sky 1 HD Local
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/252.ts
+#EXTINF:-1,UK : RTE TWO
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/106.ts
+#EXTINF:-1,UK: AMC
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/15.ts
+#EXTINF:-1,UK : RTE JUNIOR
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/105.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1552.ts
+#EXTINF:-1,UK: BBC Parliament
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1560.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1555.ts
+#EXTINF:-1,UK: Crime and Investigation
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/30.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1545.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1547.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1554.ts
+#EXTINF:-1,UK: BBC 2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1546.ts
+#EXTINF:-1,UK: Alibi
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/16.ts
+#EXTINF:-1,UK: Discovery Science
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/27.ts
+#EXTINF:-1,UK: Discovery Channel
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/29.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/28.ts
+#EXTINF:-1,UK: Dave HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/11.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/24.ts
+#EXTINF:-1,UK: Discovery Shed
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/25.ts
+#EXTINF:-1,UK: Eden
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/20.ts
+#EXTINF:-1,UK: E!
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/9.ts
+#EXTINF:-1,UK: E4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/8.ts
+#EXTINF:-1,UK: Drama
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/10.ts
+#EXTINF:-1,UK: Food Network
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/7.ts
+#EXTINF:-1,UK: H2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/6.ts
+#EXTINF:-1,UK: ITV 4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1551.ts
+#EXTINF:-1,UK: History HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/5.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1548.ts
+#EXTINF:-1,UK: ITV 2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1549.ts
+#EXTINF:-1,UK: Really
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2.ts
+#EXTINF:-1,UK: Sky Living
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1.ts
+#EXTINF:-1,UK: Quest
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/3.ts
+#EXTINF:-1,UK: Syfy
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/36.ts
+#EXTINF:-1,VH1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/96.ts
+#EXTINF:-1,UK: ITV 3
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1550.ts
+#EXTINF:-1,UK: Home
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/4.ts
+#EXTINF:-1,UK: ITV Be
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1557.ts
+#EXTINF:-1,UK: ITV Encore
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1558.ts
+#EXTINF:-1,UK: ITV Encore HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1553.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/22.ts
+#EXTINF:-1,UK: Five USA
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1556.ts
+#EXTINF:-1,Yesterday
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/32.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1559.ts
+#EXTINF:-1,Watch
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/33.ts
+#EXTINF:-1,UK : RTE NEWS
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/108.ts
+#EXTINF:-1,TG4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/111.ts
+#EXTINF:-1,Sky Two
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/38.ts
+#EXTINF:-1,Comedy Central
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1613.ts
+#EXTINF:-1,Investigation Discovery +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1615.ts
+#EXTINF:-1,w
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1616.ts
+#EXTINF:-1,E! +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1621.ts
+#EXTINF:-1,ITV 1 +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1617.ts
+#EXTINF:-1,ITV 2 +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1618.ts
+#EXTINF:-1,ITV 3 +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1619.ts
+#EXTINF:-1,ITV 4 +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1620.ts
+#EXTINF:-1,Sky Atlantic +1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1622.ts
+#EXTINF:-1,Food Network + 1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1870.ts
+#EXTINF:-1,BBC 1 Scotland
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2069.ts
+#EXTINF:-1,ITV SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2329.ts
+#EXTINF:-1,BBC 1 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2330.ts
+#EXTINF:-1,POP
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2332.ts
+#EXTINF:-1,Tiny Pop
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2334.ts
+#EXTINF:-1,Kix
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2333.ts
+#EXTINF:-1,TV-3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/109.ts
+#EXTINF:-1,NBA Live 9
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/220.ts
+#EXTINF:-1,NBA Live 10
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/221.ts
+#EXTINF:-1,US: WWE HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/152.ts
+#EXTINF:-1,USA: UFC Fight pass
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/156.ts
+#EXTINF:-1,US: NBC SPORT
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/154.ts
+#EXTINF:-1,US: NBC Golf HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/155.ts
+#EXTINF:-1,NBA Live 8
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/148.ts
+#EXTINF:-1,NBA Live 7
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/147.ts
+#EXTINF:-1,NBA Live 6
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/146.ts
+#EXTINF:-1,NBA Live 5
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/145.ts
+#EXTINF:-1,NBA Live 4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/144.ts
+#EXTINF:-1,NBA Live 3
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/143.ts
+#EXTINF:-1,NBA Live 2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/142.ts
+#EXTINF:-1,NBA Live 1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/141.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/126.ts
+#EXTINF:-1,USA | NFL NOW HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/121.ts
+#EXTINF:-1,USA | MLB HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/140.ts
+#EXTINF:-1,USA | LIVE NHL 9 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/139.ts
+#EXTINF:-1,USA | LIVE NHL 8 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/138.ts
+#EXTINF:-1,USA | LIVE NHL 7 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/137.ts
+#EXTINF:-1,USA | LIVE NHL 6 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/136.ts
+#EXTINF:-1,USA | LIVE NHL 5 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/135.ts
+#EXTINF:-1,USA | LIVE NHL 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/134.ts
+#EXTINF:-1,USA | LIVE NHL 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/133.ts
+#EXTINF:-1,USA | LIVE NHL 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/132.ts
+#EXTINF:-1,USA | LIVE NHL 13 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/131.ts
+#EXTINF:-1,USA | LIVE NHL 12 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/130.ts
+#EXTINF:-1,USA | LIVE NHL Ice EXTRA
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/129.ts
+#EXTINF:-1,USA | LIVE NHL 10 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/128.ts
+#EXTINF:-1,USA | LIVE NHL 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/127.ts
+#EXTINF:-1,USA : Fox Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/149.ts
+#EXTINF:-1,USA : Fox Sports 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/150.ts
+#EXTINF:-1,US: NFL Network HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/125.ts
+#EXTINF:-1,US: NBA TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/124.ts
+#EXTINF:-1,US: ESPN HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/123.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/122.ts
+#EXTINF:-1,US: ESPN
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/151.ts
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/120.ts
+#EXTINF:-1,CA: SPORTSNET WEST
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/119.ts
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/118.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/117.ts
+#EXTINF:-1,CA: SPORTSNET ONE
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/116.ts
+#EXTINF:-1,CA: SPORTSNET EAST
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/115.ts
+#EXTINF:-1,CA: SPORTSNET 360
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/114.ts
+#EXTINF:-1,UFC NEXT
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1869.ts
+#EXTINF:-1,USA : NBC HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/165.ts
+#EXTINF:-1,USA : DIY NETWORK HD**
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/159.ts
+#EXTINF:-1,USA : CNBC HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/162.ts
+#EXTINF:-1,USA: CINEMAX 5
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/158.ts
+#EXTINF:-1,USA: COZI TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/186.ts
+#EXTINF:-1,USA: antenna
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/184.ts
+#EXTINF:-1,US: USA Network HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/163.ts
+#EXTINF:-1,US: TBS HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/164.ts
+#EXTINF:-1,US: SPIKE HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/157.ts
+#EXTINF:-1,US: Showtime Showcase
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/166.ts
+#EXTINF:-1,US: Showtime Extreme
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/167.ts
+#EXTINF:-1,USA: ShowTime 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/168.ts
+#EXTINF:-1,US: ShowTime
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/169.ts
+#EXTINF:-1,USA: OWN HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/170.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/171.ts
+#EXTINF:-1,USA: Nat Geo Wild
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/172.ts
+#EXTINF:-1,US: NAT GEO
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/173.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/174.ts
+#EXTINF:-1,USA: HISTORY
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/175.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/176.ts
+#EXTINF:-1,US: HBO Family HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/177.ts
+#EXTINF:-1,US: HBO
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/178.ts
+#EXTINF:-1,USA: FX HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/183.ts
+#EXTINF:-1,USA: FOX HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/182.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/160.ts
+#EXTINF:-1,US: Cinemax East
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/161.ts
+#EXTINF:-1,US: BRAVO HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/181.ts
+#EXTINF:-1,USA: Bravo
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/180.ts
+#EXTINF:-1,US: AMC HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/179.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/199.ts
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/200.ts
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/201.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/202.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/203.ts
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/187.ts
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/188.ts
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/189.ts
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/190.ts
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/191.ts
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/192.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/193.ts
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/194.ts
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/195.ts
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/196.ts
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/197.ts
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/198.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/205.ts
+#EXTINF:-1,ES: CANAL LIGA TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/206.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/204.ts
+#EXTINF:-1,TR: Bein Sports 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2938.ts
+#EXTINF:-1,TR: Bein Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2937.ts
+#EXTINF:-1,TR: Bein Sports 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2936.ts
+#EXTINF:-1,TR: Bein Sports 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2935.ts
+#EXTINF:-1,UK: SKY CINEMA PREMIER HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1525.ts
+#EXTINF:-1,Sky Drama & Romance HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/249.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/248.ts
+#EXTINF:-1,UK: Sky Family HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/255.ts
+#EXTINF:-1,UK: Sky Cinema Sc-Fi & Horror HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/256.ts
+#EXTINF:-1,UK: Sky CInema HERO HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/260.ts
+#EXTINF:-1,UK: Sky Cinema Hits HD Local
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/259.ts
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/258.ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/253.ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/254.ts
+#EXTINF:-1,Sony Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/217.ts
+#EXTINF:-1,Sky Thriller Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/214.ts
+#EXTINF:-1,True Movies 2 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/219.ts
+#EXTINF:-1,True Movies 1 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/218.ts
+#EXTINF:-1,Sky Action Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/213.ts
+#EXTINF:-1,Sky Select Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/215.ts
+#EXTINF:-1,Sky ScFiHorror Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/216.ts
+#EXTINF:-1,Sky Premiere Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/207.ts
+#EXTINF:-1,Sky Movies Drama & Romance SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/211.ts
+#EXTINF:-1,Sky Movies Disney SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/208.ts
+#EXTINF:-1,Sky Hits Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/209.ts
+#EXTINF:-1,Sky Family Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/210.ts
+#EXTINF:-1,Sky Comedy Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/212.ts
+#EXTINF:-1,Sky Cinema Premier + 1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1871.ts
+#EXTINF:-1,Film 4
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2335.ts
+#EXTINF:-1,SKY SPORTS Premier Leauge HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/245.ts
+#EXTINF:-1,SKY SPORTS The Open HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/244.ts
+#EXTINF:-1,SKY SPORTS Action HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/243.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/242.ts
+#EXTINF:-1,SKY SPORTS Main Event HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/241.ts
+
+#EXTINF:-1,beinsport1
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/147.ts
+#EXTINF:-1,beinsport2
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/148.ts
+#EXTINF:-1,beinsport3
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/149.ts
+#EXTINF:-1,beinsport4
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/150.ts
+#EXTINF:-1,beinsport5
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/151.ts
+#EXTINF:-1,beinsport6
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/587.ts
+#EXTINF:-1,beinsport7
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/588.ts
+#EXTINF:-1,beinsport8
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/589.ts
+#EXTINF:-1,beinsport9
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/590.ts
+#EXTINF:-1,beinsport10
+http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/591.ts
 #EXTINF:0,BEIN SPORTS USA
 http://thepk.co:2086/live/byron/12345/352.ts
 #EXTINF:0,BEIN SPORTS HD
@@ -443,32 +840,6 @@ http://servidoriptv.mine.nu:37001/live/wilson/wilson/2464.ts
 http://servidoriptv.mine.nu:37001/live/wilson/wilson/2463.ts
 #EXTINF:0,FOX SPORTS SD
 http://servidoriptv.mine.nu:37001/live/wilson/wilson/2462.ts
-#EXTINF:0,SPORTSNET NEW YORK USA (SNY)
-http://thepk.co:2086/live/byron/12345/8850.ts
-#EXTINF:0,Sportsnet 360 CA
-http://thepk.co:2086/live/byron/12345/3227.ts
-#EXTINF:0,Sportsnet East CA
-http://thepk.co:2086/live/byron/12345/3226.ts
-#EXTINF:0,Sportsnet One CA
-http://thepk.co:2086/live/byron/12345/3225.ts
-#EXTINF:0,Sportsnet Ontario CA
-http://thepk.co:2086/live/byron/12345/3224.ts
-#EXTINF:0,Sportsnet Pacific CA
-http://thepk.co:2086/live/byron/12345/3223.ts
-#EXTINF:0,Sportsnet West CA
-http://thepk.co:2086/live/byron/12345/3222.ts
-#EXTINF:0,Sportsnet World CA
-http://thepk.co:2086/live/byron/12345/3221.ts
-#EXTINF:0,A 24 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1901.ts
-#EXTINF:0,AMERICA TV HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1900.ts
-#EXTINF:0,C5N
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/14181.ts
-#EXTINF:0,CN 23
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15543.ts
-#EXTINF:0,CANAL 26
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1899.ts
 #EXTINF:0,CINE AR
 http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15542.ts
 #EXTINF:0,CIUDAD MAGAZINE
@@ -491,1303 +862,7 @@ http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2238.ts
 http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/11431.ts
 #EXTINF:0,FOX SPORTS PREMIUM HD.
 http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/11430.ts
-#EXTINF:0,KZO  HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/3080.ts
-#EXTINF:0,LN+
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1627.ts
-#EXTINF:0,TEC TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15375.ts
-#EXTINF:0,PAKA PAKA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15544.ts
-#EXTINF:0,TELEFE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2052.ts
-#EXTINF:0,TELEFE INTERNACIONAL  HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1840.ts
-#EXTINF:0,TELEPIN  HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1997.ts
-#EXTINF:0,TN HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1893.ts
-#EXTINF:0,TNT SPORTS HD.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/11432.ts
-#EXTINF:0,TyC SPORTS HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/11433.ts
-#EXTINF:0,TV PUBLICA  HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1738.ts
-#EXTINF:0,BR:_A&E
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8647.ts
-#EXTINF:0,BR:_AMC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8702.ts
-#EXTINF:0,BR:_ANIMAL PLANET
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8646.ts
-#EXTINF:0,BR:_ARTE 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8706.ts
-#EXTINF:0,BR:_AXN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8645.ts
-#EXTINF:0,BR:_Baby TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8644.ts
-#EXTINF:0,BR:_BAND ESPORTES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8643.ts
-#EXTINF:0,BR:_BAND NEWS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8642.ts
-#EXTINF:0,BR:_BANDEIRANTES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8641.ts
-#EXTINF:0,BR:_BIS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8640.ts
-#EXTINF:0,BR:_BOOMERANG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8639.ts
-#EXTINF:0,BR:_CANAL BRASIL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8638.ts
-#EXTINF:0,BR:_CANAL SONY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8637.ts
-#EXTINF:0,BR:_CANCAO NOVA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8636.ts
-#EXTINF:0,BR:_CARTOON NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8635.ts
-#EXTINF:0,BR:_CINEMAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8634.ts
-#EXTINF:0,BR:_COMBATE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8633.ts
-#EXTINF:0,BR:_COMEDY CENTRAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8632.ts
-#EXTINF:0,BR:_DISCOVERY CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8631.ts
-#EXTINF:0,BR:_DISCOVERY CIVILIZATION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8630.ts
-#EXTINF:0,BR:_DISCOVERY H/H
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8629.ts
-#EXTINF:0,BR:_DISCOVERY ID
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8628.ts
-#EXTINF:0,BR:_DISCOVERY KIDS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8627.ts
-#EXTINF:0,BR:_DISCOVERY SCIENCE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8626.ts
-#EXTINF:0,BR:_DISCOVERY THEATER
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8625.ts
-#EXTINF:0,BR:_DISCOVERY TURBO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8624.ts
-#EXTINF:0,BR:_DISCOVERY WORLD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8623.ts
-#EXTINF:0,BR:_DISNEY CH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8622.ts
-#EXTINF:0,BR:_DISNEY JUNIOR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8621.ts
-#EXTINF:0,BR:_DISNEY XD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8620.ts
-#EXTINF:0,BR:_E!
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8619.ts
-#EXTINF:0,BR:_EI MAXX 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8618.ts
-#EXTINF:0,BR:_ESPN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8617.ts
-#EXTINF:0,BR:_ESPN BRASIL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8616.ts
-#EXTINF:0,BR:_ESPN_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8615.ts
-#EXTINF:0,BR:_ESPORTE INTERACTIVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8614.ts
-#EXTINF:0,BR:_ESPORTE INTERACTIVE 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8613.ts
-#EXTINF:0,BR:_FISH TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8612.ts
-#EXTINF:0,BR:_FOOD NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8705.ts
-#EXTINF:0,BR:_FOX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8611.ts
-#EXTINF:0,BR:_FOX LIFE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8610.ts
-#EXTINF:0,BR:_FOX PREMIUM 1 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8699.ts
-#EXTINF:0,BR:_FOX PREMIUM 2 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8698.ts
-#EXTINF:0,BR:_FUTURA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8691.ts
-#EXTINF:0,BR:_FX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8690.ts
-#EXTINF:0,BR:_GAZETA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8704.ts
-#EXTINF:0,BR:_Globo MINAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8689.ts
-#EXTINF:0,BR:_GLOBO NEWS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8688.ts
-#EXTINF:0,BR:_GLOBO RJ
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8687.ts
-#EXTINF:0,BR:_GLOBO SP
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8686.ts
-#EXTINF:0,BR:_GLOOB
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8685.ts
-#EXTINF:0,BR:_GNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8684.ts
-#EXTINF:0,BR:_H2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8683.ts
-#EXTINF:0,BR:_HBO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8682.ts
-#EXTINF:0,BR:_HBO FAMILY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8681.ts
-#EXTINF:0,BR:_HBO PLUS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8680.ts
-#EXTINF:0,BR:_HBO PLUS E
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8679.ts
-#EXTINF:0,BR:_HBO SIGNATURE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8678.ts
-#EXTINF:0,BR:_HBO2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8677.ts
-#EXTINF:0,BR:_HISTORY CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8676.ts
-#EXTINF:0,BR:_LIFETIME
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8695.ts
-#EXTINF:0,BR:_Mais Globosat
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8694.ts
-#EXTINF:0,BR:_MAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8675.ts
-#EXTINF:0,BR:_MAX PRIME
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8674.ts
-#EXTINF:0,BR:_MAX PRIME E
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8673.ts
-#EXTINF:0,BR:_MAX UP
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8672.ts
-#EXTINF:0,BR:_MEGAPIX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8671.ts
-#EXTINF:0,BR_MTV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8670.ts
-#EXTINF:0,BR:_MULTISHOW
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8669.ts
-#EXTINF:0,BR:_MUSIC BOX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8668.ts
-#EXTINF:0,BR:_NAT GEO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8667.ts
-#EXTINF:0,BR:_NAT GEO KIDS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8666.ts
-#EXTINF:0,BR:_NATGEO WILD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8665.ts
-#EXTINF:0,BR:_NBR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8664.ts
-#EXTINF:0,BR:_NICK JR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8663.ts
-#EXTINF:0,BR:_NICKELODEON
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8662.ts
-#EXTINF:0,BR:_NOVA TEMPO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8661.ts
-#EXTINF:0,BR:_OFF
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8703.ts
-#EXTINF:0,BR:_PARAMOUNT CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8660.ts
-#EXTINF:0,BR:_PFC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8733.ts
-#EXTINF:0,BR:_PLAY TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8659.ts
-#EXTINF:0,BR:_PREMIERE 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8657.ts
-#EXTINF:0,BR:_PREMIERE 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8656.ts
-#EXTINF:0,BR:_PREMIERE 4
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8655.ts
-#EXTINF:0,BR:_PREMIERE 5
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8654.ts
-#EXTINF:0,BR:_PREMIERE 6
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8653.ts
-#EXTINF:0,BR:_PREMIERE 7
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8652.ts
-#EXTINF:0,BR:_PREMIERE 8
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8651.ts
-#EXTINF:0,BR:_PREMIERE 9
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8650.ts
-#EXTINF:0,BR:_PREMIERE CLUBES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8649.ts
-#EXTINF:0,BR:_RBS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8648.ts
-#EXTINF:0,BR:_RECORD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8735.ts
-#EXTINF:0,BR:_RECORD NEWS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8734.ts
-#EXTINF:0,BR:_RED TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8696.ts
-#EXTINF:0,BR:_REDE BRASIL TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8731.ts
-#EXTINF:0,BR:_REDE VIDA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8732.ts
-#EXTINF:0,BR:_SBT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8730.ts
-#EXTINF:0,BR:_SPACE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8729.ts
-#EXTINF:0,BR:_SPOR-TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8728.ts
-#EXTINF:0,BR:_SPOR-TV 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8727.ts
-#EXTINF:0,BR:_SPOR-TV 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8726.ts
-#EXTINF:0,BR:_STUDIO UNIVERSAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8725.ts
-#EXTINF:0,BR:_SYFY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8701.ts
-#EXTINF:0,BR:_TBS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8700.ts
-#EXTINF:0,BR:_TCM
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8724.ts
-#EXTINF:0,BR:_TELECINE ACTION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8723.ts
-#EXTINF:0,BR:_TELECINE CULT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8722.ts
-#EXTINF:0,BR:_TELECINE FUN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8721.ts
-#EXTINF:0,BR:_TELECINE PIPOCA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8720.ts
-#EXTINF:0,BR:_TELECINE PREMIUM
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8719.ts
-#EXTINF:0,BR:_TELECINE TOUCH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8718.ts
-#EXTINF:0,BR:_TLC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8717.ts
-#EXTINF:0,BR:_TNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8716.ts
-#EXTINF:0,BR:_TNT SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8715.ts
-#EXTINF:0,BR:_TOONCAST
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8714.ts
-#EXTINF:0,BR:_TRUTV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8713.ts
-#EXTINF:0,BR:_TV CULTURA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8712.ts
-#EXTINF:0,BR:_UNIVERSAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8711.ts
-#EXTINF:0,BR:_VH1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8710.ts
-#EXTINF:0,BR:_VIVA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8709.ts
-#EXTINF:0,BR:_WARNER CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8708.ts
-#EXTINF:0,BR:_WOOHOO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8707.ts
-#EXTINF:0,13 C CHILE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1709.ts
-#EXTINF:0,CABLENOTICIA COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1624.ts
-#EXTINF:0,CANAL ANTIESTRES COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1623.ts
-#EXTINF:0,CANAL U COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1772.ts
-#EXTINF:0,CANTINAZO COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1771.ts
-#EXTINF:0,CARACOL HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1990.ts
-#EXTINF:0,CARACOL NACIONAL.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1539.ts
-#EXTINF:0,CARACOL INTERNACIONAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1628.ts
-#EXTINF:0,CITY TV COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1759.ts
-#EXTINF:0,COSMOVISION COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1770.ts
-#EXTINF:0,EL TIEMPO COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1769.ts
-#EXTINF:0,LIFEDESING COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1768.ts
-#EXTINF:0,RCN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1523.ts
-#EXTINF:0,RCN HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2067.ts
-#EXTINF:0,TELEANTIOQUIA COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1766.ts
-#EXTINF:0,TELECAFE COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1765.ts
-#EXTINF:0,TELECARIBE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1841.ts
-#EXTINF:0,TELEMEDELLIN COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1764.ts
-#EXTINF:0,TELEPACIFICO COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1760.ts
-#EXTINF:0,TELE VIDA COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1767.ts
-#EXTINF:0,TV AGRO COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1762.ts
-#EXTINF:0,VMAS COLOMBIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1761.ts
-#EXTINF:0,WIN SPORT.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15195.ts
-#EXTINF:0,CANAL UNO ECUADOR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1757.ts
-#EXTINF:0,ECUAVISA EC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1550.ts
-#EXTINF:0,ECUAVISA HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2039.ts
-#EXTINF:0,ECO TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2256.ts
-#EXTINF:0,TC ECUADOR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2048.ts
-#EXTINF:0,ECUAVISA.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1888.ts
-#EXTINF:0,ECUADOR TV.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1790.ts
-#EXTINF:0,ECUADOR TV EC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1551.ts
-#EXTINF:0,ETC TV ECUADOR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1785.ts
-#EXTINF:0,GAMATV EC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1549.ts
-#EXTINF:0,OROMAR TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1644.ts
-#EXTINF:0,RTS.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1851.ts
-#EXTINF:0,RTS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1635.ts
-#EXTINF:0,RTS ECUADOR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2038.ts
-#EXTINF:0,TC TELEVISION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1634.ts
-#EXTINF:0,TC TELEVISION SD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1845.ts
-#EXTINF:0,TELEAMAZONAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1633.ts
-#EXTINF:0,TELEAMAZONAS-
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1843.ts
-#EXTINF:0,ES:_AMC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12873.ts
-#EXTINF:0,ES:_ANDALUCIA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12856.ts
-#EXTINF:0,ES:_Antena 3 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12953.ts
-#EXTINF:0,ES:_AXN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12952.ts
-#EXTINF:0,ES:_AXN White HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12951.ts
-#EXTINF:0,ES:_Baby TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12950.ts
-#EXTINF:0,ES:_Barca TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12872.ts
-#EXTINF:0,ES | beIN Max 3 {Live match}
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12862.ts
-#EXTINF:0,ES:_BOING
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12945.ts
-#EXTINF:0,ES:_Calle 13 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12944.ts
-#EXTINF:0,ES:_Canal  DeportSP
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12943.ts
-#EXTINF:0,ES:_Canal Cocina
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12942.ts
-#EXTINF:0,ES:_Canal DeCasa
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12941.ts
-#EXTINF:0,ES:_CANAL ORBE 21
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12850.ts
-#EXTINF:0,ES:_CANAL PANDA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12849.ts
-#EXTINF:0,ES:_Cartoon Network
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12940.ts
-#EXTINF:0,ES:_CLAN TVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12848.ts
-#EXTINF:0,ES:_Comedy Central
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12939.ts
-#EXTINF:0,ES:_Cosmo HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12938.ts
-#EXTINF:0,ES:_CRIMEN + INVESTIGACION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12937.ts
-#EXTINF:0,ES:_Cuatro HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12935.ts
-#EXTINF:0,ES:_Disney Channel
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12934.ts
-#EXTINF:0,ES:_Disney Junior
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12933.ts
-#EXTINF:0,ES:_Disney XD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12932.ts
-#EXTINF:0,ES:_DIVINITY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12870.ts
-#EXTINF:0,ES:_Energy
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12931.ts
-#EXTINF:0,ES:_EUROSPORT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12930.ts
-#EXTINF:0,ES:_FDF
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12869.ts
-#EXTINF:0,ES:_FOX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12929.ts
-#EXTINF:0,ES:_FOX LIFE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12928.ts
-#EXTINF:0,ES:_FOX Life HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12927.ts
-#EXTINF:0,ES:_GALICIA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12868.ts
-#EXTINF:0,ES:_Historia
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12925.ts
-#EXTINF:0,ES:_Hollywood HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12924.ts
-#EXTINF:0,ES:_IBERALIA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12867.ts
-#EXTINF:0,ES:_LA LIGA TV HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12923.ts
-#EXTINF:0,ES:_LA sexta HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12922.ts
-#EXTINF:0,ES:_LA1 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12846.ts
-#EXTINF:0,ES:_LA2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12845.ts
-#EXTINF:0,ES:_M DEPORTES 1 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12921.ts
-#EXTINF:0,ES:_M DEPORTES 2 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12920.ts
-#EXTINF:0,ES:_M FORMULA 1 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12919.ts
-#EXTINF:0,ES:_M FUTBOL HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12918.ts
-#EXTINF:0,ES:_M GOLF HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12917.ts
-#EXTINF:0,ES:_M MOTO GP HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12916.ts
-#EXTINF:0,ES:_Mega
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12915.ts
-#EXTINF:0,ES:_MEZZO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12844.ts
-#EXTINF:0,ES:_Movistar Accion
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12914.ts
-#EXTINF:0,ES:_Movistar Comedia HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12913.ts
-#EXTINF:0,ES:_Movistar DCine
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12912.ts
-#EXTINF:0,ES:_Movistar Estrenos
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12911.ts
-#EXTINF:0,ES:_Movistar F1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12910.ts
-#EXTINF:0,ES:_Movistar MotoGP
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12909.ts
-#EXTINF:0,ES:_Movistar Series
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12908.ts
-#EXTINF:0,ES:_Movistar Series Xtra
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12907.ts
-#EXTINF:0,ES:_Movistar SeriSP Xtra
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12906.ts
-#EXTINF:0,ES:_Movistar Xtra
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12905.ts
-#EXTINF:0,ES:_Movistartrenos
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12904.ts
-#EXTINF:0,ES:_MULTIDEPORTES 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12843.ts
-#EXTINF:0,ES:_MULTIDEPORTES 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12842.ts
-#EXTINF:0,ES:_MULTIDEPORTES 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12841.ts
-#EXTINF:0,ES:_MULTIFUTBOLL 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12840.ts
-#EXTINF:0,ES:_MULTIFUTBOLL 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12839.ts
-#EXTINF:0,ES:_MULTIFUTBOLL 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12838.ts
-#EXTINF:0,ES:_Nat Geo Wild
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12901.ts
-#EXTINF:0,ES:_National Geographic
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12900.ts
-#EXTINF:0,ES:_Neox TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12899.ts
-#EXTINF:0,ES:_Nickelodeon HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12898.ts
-#EXTINF:0,ES:_NON STOP PEOPLE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12837.ts
-#EXTINF:0,ES:_Nova
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12897.ts
-#EXTINF:0,ES:_Odisea TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12896.ts
-#EXTINF:0,ES:_Paramount Channel
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12895.ts
-#EXTINF:0,ES:_Real Madrid  tv
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12871.ts
-#EXTINF:0,ES:_RTVA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12893.ts
-#EXTINF:0,ES:_SYFY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12892.ts
-#EXTINF:0,ES:_Taquilla 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12891.ts
-#EXTINF:0,ES:_Taquilla 10
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12890.ts
-#EXTINF:0,ES:_Taquilla 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12889.ts
-#EXTINF:0,ES:_Taquilla 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12888.ts
-#EXTINF:0,ES:_Taquilla 4
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12887.ts
-#EXTINF:0,ES:_Taquilla 5
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12886.ts
-#EXTINF:0,ES:_Taquilla 6
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12885.ts
-#EXTINF:0,ES:_Taquilla 7
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12884.ts
-#EXTINF:0,ES:_Taquilla 8
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12883.ts
-#EXTINF:0,ES:_Taquilla 9
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12882.ts
-#EXTINF:0,ES:_TCM HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12836.ts
-#EXTINF:0,ES:_Telecinco HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12881.ts
-#EXTINF:0,ES:_TELEDEPORTES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12835.ts
-#EXTINF:0,ES:_TNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12880.ts
-#EXTINF:0,ES:_Toros Tv
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12879.ts
-#EXTINF:0,ES:_TV GALICIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12834.ts
-#EXTINF:0,ES:_TV3 Catalynia HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12878.ts
-#EXTINF:0,ES:_TVE Clan
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12877.ts
-#EXTINF:0,ES:_TVE LA 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12866.ts
-#EXTINF:0,ES:_TVE LA 1 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12876.ts
-#EXTINF:0,ES:_TVE LA 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12875.ts
-#EXTINF:0,ES:_VH1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12833.ts
-#EXTINF:0,ES:_Viajar HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/12874.ts
-#EXTINF:0,AZTECA HONDURAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1741.ts
-#EXTINF:0,AZTECA 7 SD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1740.ts
-#EXTINF:0,AZ CORAZON SD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1775.ts
-#EXTINF:0,AZ CINEMA HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1753.ts
-#EXTINF:0,AZTECA 7 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1606.ts
-#EXTINF:0,AZTECA UNO SD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1754.ts
-#EXTINF:0,GALA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2819.ts
-#EXTINF:0,LA_HD_MEX:A&E
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2670.ts
-#EXTINF:0,LA_HD_MEX:A3 SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2669.ts
-#EXTINF:0,LA_HD_MEX:ADN40
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2668.ts
-#EXTINF:0,LA_HD_MEX:AFORE AZTECA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2667.ts
-#EXTINF:0,LA_HD_MEX:ALJAZZERA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2666.ts
-#EXTINF:0,LA_HD_MEX:AMC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2665.ts
-#EXTINF:0,LA_HD_MEX:ANIMAL PLANET
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2663.ts
-#EXTINF:0,LA_HD_MEX:AXN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2660.ts
-#EXTINF:0,LA_HD_MEX:AZTECA 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2659.ts
-#EXTINF:0,LA_HD_MEX:AZTECA UNO_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2653.ts
-#EXTINF:0,LA_HD_MEX:AZTECA CLICK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2656.ts
-#EXTINF:0,LA_HD_MEX:AZTECA MUNDO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2654.ts
-#EXTINF:0,LA_HD_MEX:AZTECA CINEMA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2657.ts
-#EXTINF:0,LA_HD_MEX:AMC_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2664.ts
-#EXTINF:0,LA_HD_MEX:BANDAMAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2650.ts
-#EXTINF:0,LA_HD_MEX:CANAL 11
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2725.ts
-#EXTINF:0,LA_HD_MEX:CANAL 26
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2643.ts
-#EXTINF:0,LA_HD_MEX:BABY TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2651.ts
-#EXTINF:0,LA_HD_MEX:CANAL 7
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2640.ts
-#EXTINF:0,LA_HD_MEX:CANAL 8
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2639.ts
-#EXTINF:0,LA_HD_MEX:CANAL 5
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2641.ts
-#EXTINF:0,LA_HD_MEX:CANAL 4
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2642.ts
-#EXTINF:0,LA_HD_MEX:CANAL 2 MX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2644.ts
-#EXTINF:0,LA_HD_MEX:CADEND TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2645.ts
-#EXTINF:0,LA_HD_MEX:BOOMERANG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2646.ts
-#EXTINF:0,LA_HD_MEX:BLOOMBERG.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2647.ts
-#EXTINF:0,LA_HD_MEX:BBC WORLD NEWS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2649.ts
-#EXTINF:0,LA_HD_MEX:AZTECA_UNO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2652.ts
-#EXTINF:0,LA_HD_MEX:ANTENA 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2661.ts
-#EXTINF:0,LA_HD_MEX:CANAL7
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2635.ts
-#EXTINF:0,LA_HD_MEX:CARTOON NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2634.ts
-#EXTINF:0,LA_HD_MEX:CINECANAL_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2633.ts
-#EXTINF:0,LA_HD_MEX:CNN ESP_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2631.ts
-#EXTINF:0,LA_HD_MEX:CNN INT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2630.ts
-#EXTINF:0,LA_HD_MEX:CANAL2278
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2636.ts
-#EXTINF:0,LA_HD_MEX:COMEDY CENTRAL_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2627.ts
-#EXTINF:0,LA_HD_MEX:DE PELICULA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2626.ts
-#EXTINF:0,LA_HD_MEX:CANAL1952
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2821.ts
-#EXTINF:0,LA_HD_MEX:CANAL109
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2726.ts
-#EXTINF:0,LA_HD_MEX:CANAL1873
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2722.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2624.ts
-#EXTINF:0,LA_HD_MEX:Canal del congreso
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2814.ts
-#EXTINF:0,LA_HD_MEX:CANAL1921
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2825.ts
-#EXTINF:0,LA_HD_MEX:CANAL1935
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2824.ts
-#EXTINF:0,CANAL 4 TELEVISA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2823.ts
-#EXTINF:0,LA_HD_MEX:CANAL DE LAS ESTRELLAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2638.ts
-#EXTINF:0,LA_HD_MEX:CNN_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2629.ts
-#EXTINF:0,LA_HD_MEX:GOLDEN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2681.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY TH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2716.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORT2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2688.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORT1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2689.ts
-#EXTINF:0,LA_HD_MEX:FOX SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2690.ts
-#EXTINF:0,LA_HD_MEX:GLITZ
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2682.ts
-#EXTINF:0,LA_HD_MEX:FOX NEWS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2691.ts
-#EXTINF:0,LA_HD_MEX:FOX MOVIE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2692.ts
-#EXTINF:0,LA_HD_MEX:FOX CLASSICS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2693.ts
-#EXTINF:0,LA_HD_MEX:FOX CINEMA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2694.ts
-#EXTINF:0,LA_HD_MEX:FX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2683.ts
-#EXTINF:0,LA_HD_MEX:FOX CH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2695.ts
-#EXTINF:0,LA_HD_MEX:FOX ACTION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2696.ts
-#EXTINF:0,LA_HD_MEX:FOX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2697.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORTS 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2684.ts
-#EXTINF:0,LA_HD_MEX:FORMULA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2698.ts
-#EXTINF:0,LA_HD_MEX:FOOD NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2699.ts
-#EXTINF:0,LA_HD_MEX:FILM & ART
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2700.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORTS 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2685.ts
-#EXTINF:0,LA_HD_MEX:Europa Europa
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2724.ts
-#EXTINF:0,LA_HD_MEX:ESPN U
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2701.ts
-#EXTINF:0,LA_HD_MEX:ESPN PLUS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2702.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORTS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2686.ts
-#EXTINF:0,LA_HD_MEX:ESPN NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2703.ts
-#EXTINF:0,LA_HD_MEX:ESPN 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2704.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORT2_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2687.ts
-#EXTINF:0,LA_HD_MEX:ESPN 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2705.ts
-#EXTINF:0,LA_HD_MEX:ESPN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2706.ts
-#EXTINF:0,LA_HD_MEX:E!
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2707.ts
-#EXTINF:0,LA_HD_MEX:E TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2723.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY TURBO.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2715.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY ID
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2719.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY KIDS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2718.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY SCI
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2717.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY HH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2720.ts
-#EXTINF:0,LA_HD_MEX:CANAL1911
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2721.ts
-#EXTINF:0,LA_HD_MEX:GOLF CH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2678.ts
-#EXTINF:0,LA_HD_MEX:HISTORY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2677.ts
-#EXTINF:0,LA_HD_MEX:HLN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2676.ts
-#EXTINF:0,LA_HD_MEX:HOLA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2675.ts
-#EXTINF:0,LA_HD_MEX:IMAGEN TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2673.ts
-#EXTINF:0,LA_HD_MEX:IMAGEN TV.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2672.ts
-#EXTINF:0,LA_HD_MEX:ISAT_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2671.ts
-#EXTINF:0,LA_HD_MEX:GOLDEN PLUS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2679.ts
-#EXTINF:0,LA_HD_MEX:ITV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2817.ts
-#EXTINF:0,LA_HD_MEX:GOLDEN EDG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2680.ts
-#EXTINF:0,LA_HD_MEX:CANAL JUDICIAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2637.ts
-#EXTINF:0,LA_HD_MEX:LIFETIME
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2769.ts
-#EXTINF:0,LA_HD_MEX:MAS CHIC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2768.ts
-#EXTINF:0,LA_HD_MEX:LAS ESTRELLAS._
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2771.ts
-#EXTINF:0,LA_HD_MEX:MULTIMEDIOS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2764.ts
-#EXTINF:0,LA_HD_MEX:MULTIMEDIOS P.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2763.ts
-#EXTINF:0,LA_HD_MEX:NAT GEO KIDS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2762.ts
-#EXTINF:0,LA_HD_MEX:LAS ESTRELLA_.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2770.ts
-#EXTINF:0,LA_HD_MEX:LAS ESTRELLAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2772.ts
-#EXTINF:0,LA_HD_MEX:CANAL2355
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2813.ts
-#EXTINF:0,LA_HD_MEX:NATGEO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2760.ts
-#EXTINF:0,LA_HD_MEX:NICK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2759.ts
-#EXTINF:0,LA_HD_MEX:NICK 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2758.ts
-#EXTINF:0,LA_HD_MEX:NICK JR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2757.ts
-#EXTINF:0,LA_HD_MEX:NICK_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2755.ts
-#EXTINF:0,LA_HD_MEX:NICKTOONS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2756.ts
-#EXTINF:0,LA_HD_MEX:NTN24
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2754.ts
-#EXTINF:0,LA_HD_MEX:OCHO TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2818.ts
-#EXTINF:0,LA_HD_MEX:NAT GEO WILD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2761.ts
-#EXTINF:0,LA_HD_MEX:BLOOMBERG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2648.ts
-#EXTINF:0,LA_HD_MEX:PX SPORTS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2752.ts
-#EXTINF:0,LA_HD_MEX:RMS_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2751.ts
-#EXTINF:0,LA_HD_MEX:RT RUSIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2750.ts
-#EXTINF:0,LA_HD_MEX:SENDERO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2749.ts
-#EXTINF:0,LA_HD_MEX:SHE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2748.ts
-#EXTINF:0,LA_HD_MEX:SONY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2747.ts
-#EXTINF:0,LA_HD_MEX:SPACE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2746.ts
-#EXTINF:0,LA_HD_MEX:PARAMOUNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2753.ts
-#EXTINF:0,LA_HD_MEX:AZTECA CORAZON
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2655.ts
-#EXTINF:0,LA_HD_MEX:STAR TVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2744.ts
-#EXTINF:0,LA_HD_MEX:SUNDANCE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2743.ts
-#EXTINF:0,LA_HD_MEX:SYFY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2742.ts
-#EXTINF:0,LA_HD_MEX:TBS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2741.ts
-#EXTINF:0,LA_HD_MEX:TCM
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2740.ts
-#EXTINF:0,LA_HD_MEX:TELEHIT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2739.ts
-#EXTINF:0,LA_HD_MEX:SPACE_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2745.ts
-#EXTINF:0,LA_HD_MEX:CINEMAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2632.ts
-#EXTINF:0,LA_HD_MEX:TELEVISA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2737.ts
-#EXTINF:0,LA_HD_MEX:TELEVISA.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2736.ts
-#EXTINF:0,LA_HD_MEX:TIIN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2735.ts
-#EXTINF:0,LA_HD_MEX:TLC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2734.ts
-#EXTINF:0,LA_HD_MEX:TLC.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2733.ts
-#EXTINF:0,LA_HD_MEX:TELENOVELAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2738.ts
-#EXTINF:0,LA_HD_MEX:COMEDY CENTRAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2628.ts
-#EXTINF:0,LA_HD_MEX:TNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2731.ts
-#EXTINF:0,LA_HD_MEX:TNT SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2730.ts
-#EXTINF:0,LA_HD_MEX:TOONCAST
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2729.ts
-#EXTINF:0,LA_HD_MEX:TP AZTECA_UNO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2728.ts
-#EXTINF:0,LA_HD_MEX:TLR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2732.ts
-#EXTINF:0,LA_HD_MEX:DE PELICULA_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2625.ts
-#EXTINF:0,LA_HD_MEX:TV MAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2806.ts
-#EXTINF:0,LA_HD_MEX:TV UNAME
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2727.ts
-#EXTINF:0,LA_HD_MEX:TV5 FRANCIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2805.ts
-#EXTINF:0,LA_HD_MEX:TRU TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2807.ts
-#EXTINF:0,LA_HD_MEX:DISCOVERY CIVILIZATION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2623.ts
-#EXTINF:0,LA_HD_MEX:TVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2803.ts
-#EXTINF:0,LA_HD_MEX:TVO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2802.ts
-#EXTINF:0,LA_HD_MEX:TVCD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2804.ts
-#EXTINF:0,LA_HD_MEX:CANAL52
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2808.ts
-#EXTINF:0,LA_HD_MEX:i CLASSIC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2674.ts
-#EXTINF:0,LA_SD_MEX:GOLDEN PLUS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2911.ts
-#EXTINF:0,LA_SD_MEX:GOLF CH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2910.ts
-#EXTINF:0,LA_HD_MEX:UNIVERSAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2800.ts
-#EXTINF:0,LA_HD_MEX:VH1 P
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2799.ts
-#EXTINF:0,LA_SD_MEX:GOLDEN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2913.ts
-#EXTINF:0,LA_HD_MEX:VTV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2797.ts
-#EXTINF:0,LA_HD_MEX:WARNER CH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2796.ts
-#EXTINF:0,LA_HD_MEX:WOBI
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2795.ts
-#EXTINF:0,LA_SD_MEX:A&E
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2793.ts
-#EXTINF:0,LA_SD_MEX:A3 SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2792.ts
-#EXTINF:0,LA_SD_MEX:ADN40
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2791.ts
-#EXTINF:0,LA_SD_MEX:AL JAZZERA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2790.ts
-#EXTINF:0,LA_SD_MEX:AMC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2935.ts
-#EXTINF:0,LA_SD_MEX:AMC.-
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2930.ts
-#EXTINF:0,LA_SD_MEX:ANIMAL PLANET
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2789.ts
-#EXTINF:0,LA_SD_MEX:ANTENA3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2788.ts
-#EXTINF:0,LA_SD_MEX:AXN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2787.ts
-#EXTINF:0,LA_SD_MEX:Az uno
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2951.ts
-#EXTINF:0,LA_SD_MEX:AZ_UNO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2947.ts
-#EXTINF:0,LA_SD_MEX:AZT UNO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2948.ts
-#EXTINF:0,LA_SD_MEX:AZTECA 1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2786.ts
-#EXTINF:0,LA_SD_MEX:AZTECA CINEMA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2785.ts
-#EXTINF:0,LA_SD_MEX:AZTECA CLICK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2784.ts
-#EXTINF:0,LA_SD_MEX:AZTECA CORAZON
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2783.ts
-#EXTINF:0,LA_SD_MEX:AZTECA CORAZON_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2782.ts
-#EXTINF:0,LA_SD_MEX:AZTECA MUNDO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2781.ts
-#EXTINF:0,LA_SD_MEX:AZTECA UNO_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2780.ts
-#EXTINF:0,LA_SD_MEX:AZTECA7
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2779.ts
-#EXTINF:0,LA_SD_MEX:BABY FIRST
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2778.ts
-#EXTINF:0,LA_SD_MEX:BANDAMAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2777.ts
-#EXTINF:0,LA_SD_MEX:BLOMMBERG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2775.ts
-#EXTINF:0,LA_SD_MEX:BLOOMBERG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2774.ts
-#EXTINF:0,LA_SD_MEX:BOOMERANG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2773.ts
-#EXTINF:0,LA_SD_MEX:CADEND TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2874.ts
-#EXTINF:0,LA_SD_MEX:CANAL 11
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2952.ts
-#EXTINF:0,LA_SD_MEX:Canal 2 Mx
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2932.ts
-#EXTINF:0,LA_SD_MEX:CANAL 26
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2873.ts
-#EXTINF:0,LA_SD_MEX:CANAL 4
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2872.ts
-#EXTINF:0,LA_SD_MEX:CANAL 5
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2871.ts
-#EXTINF:0,LA_SD_MEX:CANAL 7
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2870.ts
-#EXTINF:0,LA_SD_MEX:CANAL 8
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2869.ts
-#EXTINF:0,LA_SD_MEX:CANAL B
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2940.ts
-#EXTINF:0,LA_SD_MEX:CANAL DE LAS ESTRELLAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2868.ts
-#EXTINF:0,LA_SD_MEX:Canal del congreso
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2941.ts
-#EXTINF:0,LA_SD_MEX:CANAL JUDICIAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2867.ts
-#EXTINF:0,LA_SD_MEX:CANAL556
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2934.ts
-#EXTINF:0,LA_SD_MEX:CARTOON NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2866.ts
-#EXTINF:0,LA_SD_MEX:CINECANAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2865.ts
-#EXTINF:0,LA_SD_MEX:CINEMAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2936.ts
-#EXTINF:0,LA_SD_MEX:CNN ESP_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2864.ts
-#EXTINF:0,LA_SD_MEX:CNN INT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2863.ts
-#EXTINF:0,LA_SD_MEX:CNN_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2862.ts
-#EXTINF:0,LA_SD_MEX:COMEDY CENTRAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2861.ts
-#EXTINF:0,LA_SD_MEX:COMEDY CENTRAL_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2860.ts
-#EXTINF:0,LA_SD_MEX:DE PELICULA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2859.ts
-#EXTINF:0,LA_SD_MEX:DE PELICULA_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2858.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2857.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY CIVILIZATION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2856.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY H&H
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2855.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY ID
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2854.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY KIDS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2853.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY SCI
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2852.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY TH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2851.ts
-#EXTINF:0,LA_SD_MEX:DISCOVERY TURBO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2850.ts
-#EXTINF:0,LA_SD_MEX:DW
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2844.ts
-#EXTINF:0,LA_SD_MEX:E TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2949.ts
-#EXTINF:0,LA_SD_MEX:E!
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2843.ts
-#EXTINF:0,LA_SD_MEX:ESPN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2842.ts
-#EXTINF:0,LA_SD_MEX:ESPN 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2841.ts
-#EXTINF:0,LA_SD_MEX:ESPN 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2840.ts
-#EXTINF:0,LA_SD_MEX:ESPN NETWORK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2839.ts
-#EXTINF:0,LA_SD_MEX:ESPN PLUS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2838.ts
-#EXTINF:0,LA_SD_MEX:ESPN U
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2837.ts
-#EXTINF:0,LA_SD_MEX:Europa Europa
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2950.ts
-#EXTINF:0,LA_SD_MEX:FILM & ART
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2836.ts
-#EXTINF:0,LA_SD_MEX:FOOD NETWORK.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2942.ts
-#EXTINF:0,LA_SD_MEX:FORMULA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2834.ts
-#EXTINF:0,LA_SD_MEX:FOX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2833.ts
-#EXTINF:0,LA_SD_MEX:FOX ACTION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2832.ts
-#EXTINF:0,LA_SD_MEX:FOX CHANNEL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2831.ts
-#EXTINF:0,LA_SD_MEX:FOX CINEMA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2830.ts
-#EXTINF:0,LA_SD_MEX:FOX CLASSICS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2829.ts
-#EXTINF:0,LA_SD_MEX:FOX LIFE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2828.ts
-#EXTINF:0,LA_SD_MEX:FOX MOVIE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2827.ts
-#EXTINF:0,LA_SD_MEX:FOX NEWS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2826.ts
-#EXTINF:0,LA_SD_MEX:FOX SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2921.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORT2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2920.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORT2_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2919.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORTS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2918.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORTS 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2917.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORTS 3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2916.ts
-#EXTINF:0,LA_SD_MEX:FX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2915.ts
-#EXTINF:0,LA_SD_MEX:FXM
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2914.ts
-#EXTINF:0,LA_SD_MEX:GALA_TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2945.ts
-#EXTINF:0,LA_SD_MEX:GLITZ
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2939.ts
-#EXTINF:0,LA_SD_MEX:GLITZ.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2938.ts
-#EXTINF:0,LA_SD_MEX:HISTORY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2909.ts
-#EXTINF:0,LA_SD_MEX:HLN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2908.ts
-#EXTINF:0,LA_SD_MEX:HOLA TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2907.ts
-#EXTINF:0,LA_SD_MEX:I SAT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2905.ts
-#EXTINF:0,LA_SD_MEX:IMAGEN TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2904.ts
-#EXTINF:0,LA_SD_MEX:INGENIO TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2903.ts
-#EXTINF:0,LA_SD_MEX:ITV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2902.ts
-#EXTINF:0,LA_SD_MEX:LA BUTACA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2901.ts
-#EXTINF:0,LA_SD_MEX:LAS ESTRELLAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2900.ts
-#EXTINF:0,LA_SD_MEX:LAS ESTRELLAS_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2899.ts
-#EXTINF:0,LA_SD_MEX:LIFE TIME
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2835.ts
-#EXTINF:0,LA_SD_MEX:MAS CHIC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2898.ts
-#EXTINF:0,LA_SD_MEX:MEQUIQUENSE TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2937.ts
-#EXTINF:0,LA_SD_MEX:MULTIMEDIOS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2896.ts
-#EXTINF:0,LA_SD_MEX:MULTIMEDIOS P.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2895.ts
-#EXTINF:0,LA_SD_MEX:NAT GEO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2894.ts
-#EXTINF:0,LA_SD_MEX:NAT GEO KIDS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2893.ts
-#EXTINF:0,LA_SD_MEX:NAT GEO WILD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2892.ts
-#EXTINF:0,LA_SD_MEX:NICK
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2891.ts
-#EXTINF:0,LA_SD_MEX:NICK 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2890.ts
-#EXTINF:0,LA_SD_MEX:NICK JR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2889.ts
-#EXTINF:0,LA_SD_MEX:NICKTOONS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2888.ts
-#EXTINF:0,LA_SD_MEX:NTN24
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2887.ts
-#EXTINF:0,LA_SD_MEX:PARAMOUNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2886.ts
-#EXTINF:0,LA_SD_MEX:PX SPORT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2885.ts
-#EXTINF:0,LA_SD_MEX:PX SPORTS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2884.ts
-#EXTINF:0,LA_SD_MEX:Q TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2883.ts
-#EXTINF:0,LA_SD_MEX:RMS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2882.ts
-#EXTINF:0,LA_SD_MEX:RMS_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2881.ts
-#EXTINF:0,LA_SD_MEX:RT RUSSIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2880.ts
-#EXTINF:0,LA_SD_MEX:SHE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2879.ts
-#EXTINF:0,LA_SD_MEX:SONY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2878.ts
-#EXTINF:0,LA_SD_MEX:SPACE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2877.ts
-#EXTINF:0,LA_SD_MEX:SPACE__
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2876.ts
-#EXTINF:0,LA_SD_MEX:STAR TVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2875.ts
-#EXTINF:0,LA_SD_MEX:STUDIO UNIVERSAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2969.ts
-#EXTINF:0,LA_SD_MEX:SUNDNCE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2968.ts
-#EXTINF:0,LA_SD_MEX:SYFY
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2967.ts
-#EXTINF:0,LA_SD_MEX:TBS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2966.ts
-#EXTINF:0,LA_SD_MEX:TCM
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2965.ts
-#EXTINF:0,LA_SD_MEX:TELEHIT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2964.ts
-#EXTINF:0,LA_SD_MEX:TELENOVELAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2963.ts
-#EXTINF:0,LA_SD_MEX:TELERITMO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2962.ts
-#EXTINF:0,LA_SD_MEX:TELEVISA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2961.ts
-#EXTINF:0,LA_SD_MEX:ANIMAL PLANET._
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2662.ts
-#EXTINF:0,LA_SD_MEX:TELEVISA_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2960.ts
-#EXTINF:0,LA_SD_MEX:TIIN
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2959.ts
-#EXTINF:0,LA_SD_MEX:TLC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2958.ts
-#EXTINF:0,LA_SD_MEX:TLR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2957.ts
-#EXTINF:0,LA_SD_MEX:TNT
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2956.ts
-#EXTINF:0,LA_SD_MEX:TNT SERIES
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2955.ts
-#EXTINF:0,LA_SD_MEX:TOONCAST
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2954.ts
-#EXTINF:0,LA_SD_MEX:TRU TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2927.ts
-#EXTINF:0,LA_SD_MEX:TV MAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2926.ts
-#EXTINF:0,LA_SD_MEX:TV UNAM
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2953.ts
-#EXTINF:0,LA_HD_MEX:VH1_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2798.ts
-#EXTINF:0,LA_SD_MEX:i CLASSIC
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2906.ts
-#EXTINF:0,LA_SD_MEX:iTV_
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2944.ts
-#EXTINF:0,MILENIO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2928.ts
-#EXTINF:0,LA_SD_MEX:TVCD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2923.ts
-#EXTINF:0,LA_SD_MEX:TVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2922.ts
-#EXTINF:0,LA_SD_MEX:UNICABLE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2975.ts
-#EXTINF:0,LA_SD_MEX:UNIVERSAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2974.ts
-#EXTINF:0,LA_SD_MEX:VH1
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2973.ts
-#EXTINF:0,LA_SD_MEX:VH1 P
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2972.ts
-#EXTINF:0,LA_SD_MEX:WARNER CH
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2971.ts
-#EXTINF:0,LA_SD_MEX:WOBI
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2970.ts
-#EXTINF:0,LA_SD_MEX:TV5 FRANCIA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2925.ts
-#EXTINF:0,LA_HD_MEX:UNICABLE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2801.ts
-#EXTINF:0,LA_SD_MEX:GOLDEN EDGE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2912.ts
-#EXTINF:0,PAN TV MAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1711.ts
-#EXTINF:0,PAN NEXT TV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1615.ts
-#EXTINF:0,PAN 2
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1617.ts
-#EXTINF:0,PAN 4
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1616.ts
-#EXTINF:0,PAN 13
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1618.ts
-#EXTINF:0,PAN MAS TV 23
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1697.ts
-#EXTINF:0,AMERICA TV PE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1643.ts
-#EXTINF:0,AMERICA TV HD PERU
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8925.ts
-#EXTINF:0,ATV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8924.ts
-#EXTINF:0,ATV PE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1642.ts
-#EXTINF:0,TV PERU
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8920.ts
-#EXTINF:0,TV PERU 7.3
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8919.ts
-#EXTINF:0,Gol TV PERU
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1784.ts
-#EXTINF:0,LATINA PERU
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1640.ts
-#EXTINF:0,PANAMERICANA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8923.ts
-#EXTINF:0,PANAMERICANA PE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1639.ts
-#EXTINF:0,PERU MAGICO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8922.ts
-#EXTINF:0,PERU MAGICO PERU
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1638.ts
-#EXTINF:0,PLUS TV PERU
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1637.ts
-#EXTINF:0,VENEVISION
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1698.ts
-#EXTINF:0,VENEVISION PLUS VENEZUELA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1630.ts
-#EXTINF:0,CANAL 10 SAETA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15545.ts
-#EXTINF:0,MONTECARLOS TV CANAL 4
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8739.ts
-#EXTINF:0,TELE DOCE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8740.ts
-#EXTINF:0,VTV HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8737.ts
-#EXTINF:0,VTV PLUS HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/8738.ts
-#EXTINF:0,LA_LHD:AE_MUNDO_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15132.ts
-#EXTINF:0,LA_LHD:AMC_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15131.ts
-#EXTINF:0,LA_LHD:ANIMAL_PLANET_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15130.ts
-#EXTINF:0,LA_LHD:AXN_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15129.ts
-#EXTINF:0,LA_LHD:AZCORAZON_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15128.ts
-#EXTINF:0,LA_LHD:AZMUNDO_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15127.ts
-#EXTINF:0,LA_LHD:BABYTV
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15126.ts
-#EXTINF:0,LA_LHD:BLOOMBERG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15125.ts
-#EXTINF:0,LA_LHD:BOOMERANG
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15124.ts
-#EXTINF:0,LA_LHD:CANAL_DE_LAS_ESTRELLAS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15123.ts
-#EXTINF:0,LA_LHD:CARTOON_NETWORK_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15122.ts
-#EXTINF:0,LA_LHD:CINECANAL_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15121.ts
-#EXTINF:0,LA_LHD:CINELATINO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15120.ts
-#EXTINF:0,LA_LHD:CINEMAPLUS
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15119.ts
-#EXTINF:0,LA_LHD:CINEMAX
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15118.ts
-#EXTINF:0,LA_LHD:CLARO_SPORTS_LATAM_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15117.ts
-#EXTINF:0,LA_LHD:CNN_ESPANOL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15116.ts
-#EXTINF:0,LA_LHD:CNN_INTERNACIONAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15115.ts
-#EXTINF:0,LA_LHD:COMEDY_CENTRAL_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15114.ts
-#EXTINF:0,LA_LHD:CONCERT_CHANNEL_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15113.ts
-#EXTINF:0,LA_LHD:DEPELICULA
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15112.ts
-#EXTINF:0,LA_LHD:DHE_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15111.ts
-#EXTINF:0,LA_LHD:DISCOVERY_CHANNEL_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15110.ts
-#EXTINF:0,LA_LHD:DISCOVERY_HOME_HEALTH_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15109.ts
-#EXTINF:0,LA_LHD:DISCOVERY_KIDS_HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15108.ts
+
+
 
 
