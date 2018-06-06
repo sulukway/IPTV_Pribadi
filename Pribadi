@@ -1,867 +1,713 @@
 #EXTM3U
-#EXTINF:-1,Sony Espn HD
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:-1,Sony Ten 1
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
-#EXTINF:-1,Sony ten 3 SD
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_Zoiper Click2Dial952100745ES/PLTV/88888888/224/3221226076/01.m3u8
+ 
 #EXTINF:-1,SONY ESPN
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
- #EXTINF:-1,SONY TEN1 SD
+
+#EXTINF:-1,SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+ 
+#EXTINF:-1,SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+ 
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1,SONY TEN1 SD
 http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
- #EXTINF:-1,SONY TEN2 SD
+ 
+#EXTINF:-1,SONY TEN2 SD
 http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1,Animal Planet hindi
-http://139.59.74.143/j/Animal_Planet_Hindi.m3u8
-#EXTINF:-1,History Hd hindi
-http://139.59.74.143/j/History_18_Hindi.m3u8
-#EXTINF:-1,TLC Hindi
-http://139.59.74.143/j/TLC_Hindi.m3u8
-#EXTINF:-1,Рен ТВ
-http://194.143.150.213:8080/udp/239.195.32.18:1234
-#EXTINF:-1,Россия 24
-http://194.143.150.213:8080/udp/239.195.32.4:1234
-#EXTINF:-1,Россия К
-http://194.143.150.213:8080/udp/239.195.32.5:1234
-#EXTINF:-1,BBC Earth Hindi
-http://139.59.74.143/j/Sony_BBC_Earth_HD.m3u8
-#EXTINF:-1,Discovery
-http://139.59.74.143/j/Discovery.m3u8
-#EXTINF:-1,Discovery HD World
-http://139.59.74.143/j/Discovery_HD_World.m3u8
-#EXTINF:-1,Discovery Kids 1
-http://139.59.74.143/j/Discovery_Kids_1.m3u8
-#EXTINF:-1,Discovery Science
-http://139.59.74.143/j/Discovery_Science.m3u8
-#EXTINF:-1,Discovery Turbo
-http://139.59.74.143/j/Discovery_Turbo.m3u8
-#EXTINF:-1,Jio Cricket English
-http://139.59.74.143/j/Jio_Cricket_English.m3u8
-#EXTINF:-1,Sony Six (Hindi)
-http://139.59.74.143/j/Sony_Six_SD.m3u8
-#EXTINF:-1,TR: NAT GEO HD ENG
-http://217.182.173.184:8000/live/micha/micha/589.m3u8
-#EXTINF:-1,TR: NAT GEO WILD HD ENG
-http://217.182.173.184:8000/live/micha/micha/588.m3u8
-#EXTINF:-1,Sony BBC Earth HD
-http://139.59.74.143/j/Sony_BBC_Earth_HD.m3u8
-#EXTINF:-1,Sony MAX 2
-http://139.59.74.143/j/Sony_MAX2.m3u8
-#EXTINF:-1,Sony Max HD
-http://139.59.74.143/j/Sony_Max_HD.m3u8
-#EXTINF:-1,Sony Mix
-http://139.59.74.143/j/Sony_Mix.m3u8
-#EXTINF:-1,Sony Pal
-http://139.59.74.143/j/Sony_Pal.m3u8
-#EXTINF:-1,Sony Rox HD
-http://139.59.74.143/j/Sony_Rox_HD.m3u8
-#EXTINF:-1,Star Sports HD 3
-http://139.59.74.143/j/Star_Sports_3.m3u8
-#EXTINF:-1,Discovery
-http://139.59.74.143/j/Discovery.m3u8
-#EXTINF:-1,Discovery HD World
-http://139.59.74.143/j/Discovery_HD_World.m3u8
-#EXTINF:-1,Discovery Kids 1
-http://139.59.74.143/j/Discovery_Kids_1.m3u8
-#EXTINF:-1,Discovery Science
-http://139.59.74.143/j/Discovery_Science.m3u8
-#EXTINF:-1,Discovery Turbo
-http://139.59.74.143/j/Discovery_Turbo.m3u8
-#EXTINF:-1,Sony ESPN
-http://139.59.74.143/j/Sony_ESPN_SD.m3u8
-#EXTINF:-1,Sony ESPN HD
-http://139.59.74.143/j/Sony_ESPN_HD.m3u8
-#EXTINF:-1,Sony Le PLEX HD
-http://139.59.74.143/j/Sony_Le_PLEX_HD.m3u8
-#EXTINF:-1,Sony Pix HD
-http://139.59.74.143/j/Sony_Pix_HD.m3u8
-#EXTINF:-1,Sony Six (Hindi)
-http://139.59.74.143/j/Sony_Six_SD.m3u8
-#EXTINF:-1,Sony Six HD
-http://139.59.74.143/j/Six_HD.m3u8
-#EXTINF:-1,Sony Ten 1
-http://139.59.74.143/j/Ten_1.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://139.59.74.143/j/Ten_HD.m3u8
-#EXTINF:-1,Sony Ten 2
-http://139.59.74.143/j/Ten_2.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-http://139.59.74.143/j/Ten2_HD.m3u8
-#EXTINF:-1,Sony Ten 3
-http://139.59.74.143/j/Ten_3.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-http://139.59.74.143/j/Ten3_HD.m3u8
-#EXTINF:-1,Sony Ten Golf HD
-http://139.59.74.143/j/Ten_Golf_HD.m3u8
-#EXTINF:-1,Star Sports HD 1
-http://139.59.74.143/j/Star_Sports_HD_1.m3u8
-#EXTINF:-1,Star Sports HD 2
-http://139.59.74.143/j/Star_Sports_HD_2.m3u8
-#EXTINF:-1,Star Sports Select HD 1
-http://139.59.74.143/j/Star_Sports_Select_HD_1.m3u8
-#EXTINF:-1,Star Sports Select HD 2
-http://139.59.74.143/j/Star_Sports_Select_HD_2.m3u8
-#EXTM3U
-#EXTINF:-1,NHK News HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/71.ts
-#EXTINF:-1,Fox News
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/72.ts
-#EXTINF:-1,Euronews
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/73.ts
-#EXTINF:-1,UK: CNN
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/12.ts
-#EXTINF:-1,Sky News UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/66.ts
-#EXTINF:-1,Sky News HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/67.ts
-#EXTINF:-1,Sky News Arabia
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/68.ts
-#EXTINF:-1,Russia Today
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/69.ts
-#EXTINF:-1,CNN
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/74.ts
-#EXTINF:-1,CNBC Europe
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/75.ts
-#EXTINF:-1,Bloomberg
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/76.ts
-#EXTINF:-1,BBC World News
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/77.ts
-#EXTINF:-1,BBC News UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/78.ts
-#EXTINF:-1,Al Jazeera News English
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/79.ts
-#EXTINF:-1,ABC News
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/80.ts
-#EXTINF:-1,Russia Today HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1940.ts
-#EXTINF:-1,VIP :MIO  ELEVEN PLUS 103 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1520.ts
-#EXTINF:-1,VIP :MIO  ELEVEN HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1519.ts
-#EXTINF:-1,VIP : MIO ELEVEN SPORTS HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1518.ts
-#EXTINF:-1,VIP : MTV LIVE HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/98.ts
-#EXTINF:-1,MUTV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/43.ts
-#EXTINF:-1,LIVERPOOL FC TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/65.ts
-#EXTINF:-1,UK: CHELSEA TV HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1543.ts
-#EXTINF:-1,UK: CELTIC FC TV (Live for Matches)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1540.ts
-#EXTINF:-1,BT SPORT EXTRA 6
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/240.ts
-#EXTINF:-1,BT SPORT EXTRA 5
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/239.ts
-#EXTINF:-1,BT SPORT EXTRA 4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/238.ts
-#EXTINF:-1,BT SPORT EXTRA 3
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/237.ts
-#EXTINF:-1,BT SPORT EXTRA 2
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/236.ts
-#EXTINF:-1,BT SPORT EXTRA 1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/235.ts
-#EXTINF:-1,UK: RANGERS FC TV (Local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1539.ts
-#EXTINF:-1,BT Sport 3 SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2336.ts
-#EXTINF:-1,BT Sport ESPN HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/251.ts
-#EXTINF:-1,3e
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/110.ts
-#EXTINF:-1,Animal Planet
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/509.ts
-#EXTINF:-1,BBC Alba
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1561.ts
-#EXTINF:-1,Boomerang
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/87.ts
-#EXTINF:-1,CBeebies
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/88.ts
-#EXTINF:-1,CBS Action
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/104.ts
-#EXTINF:-1,CBBC
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/89.ts
-#EXTINF:-1,UK: Disney Junior
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/84.ts
-#EXTINF:-1,Cartoonito
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/90.ts
-#EXTINF:-1,Disney Channel
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/85.ts
-#EXTINF:-1,Discovery History
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/18.ts
-#EXTINF:-1,Disney XD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/86.ts
-#EXTINF:-1,Cartoon Network UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/91.ts
-#EXTINF:-1,Baby TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/92.ts
-#EXTINF:-1,Fine Living Network
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/103.ts
-#EXTINF:-1,FOX UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/26.ts
-#EXTINF:-1,Fox HD UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/262.ts
-#EXTINF:-1,DMAX
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/101.ts
-#EXTINF:-1,GOLD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/19.ts
-#EXTINF:-1,MTV Classics
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/93.ts
-#EXTINF:-1,MTV Base HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/100.ts
-#EXTINF:-1,Sky Arts HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/40.ts
-#EXTINF:-1,MTV Hits
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/94.ts
-#EXTINF:-1,MTV Rocks HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/99.ts
-#EXTINF:-1,More 4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/102.ts
-#EXTINF:-1,Nat Geo HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/23.ts
-#EXTINF:-1,Pick
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/113.ts
-#EXTINF:-1,NickToons
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/81.ts
-#EXTINF:-1,Nick Junior
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/83.ts
-#EXTINF:-1,Nick UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/82.ts
-#EXTINF:-1,STV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1601.ts
-#EXTINF:-1,Sky Living
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/21.ts
-#EXTINF:-1,Sky Atlantic
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/39.ts
-#EXTINF:-1,MTV HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/95.ts
-#EXTINF:-1,Setanta Sports 1 / Premier Sports HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/62.ts
-#EXTINF:-1,Sky One
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/37.ts
-#EXTINF:-1,Sky One HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/263.ts
-#EXTINF:-1,Spike UK
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/112.ts
-#EXTINF:-1,MTV Dance
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/97.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/31.ts
-#EXTINF:-1,UK: CBS Reality
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/13.ts
-#EXTINF:-1,UK: CBS Drama
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/14.ts
-#EXTINF:-1,True Entertainment
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/34.ts
-#EXTINF:-1,Travel Channel
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/35.ts
-#EXTINF:-1,UK : RTE ONE
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/107.ts
-#EXTINF:-1,UK: 5 Star
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/17.ts
-#EXTINF:-1,UK | Sky 1 HD Local
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/252.ts
-#EXTINF:-1,UK : RTE TWO
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/106.ts
-#EXTINF:-1,UK: AMC
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/15.ts
-#EXTINF:-1,UK : RTE JUNIOR
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/105.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1552.ts
-#EXTINF:-1,UK: BBC Parliament
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1560.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1555.ts
-#EXTINF:-1,UK: Crime and Investigation
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/30.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1545.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1547.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1554.ts
-#EXTINF:-1,UK: BBC 2
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1546.ts
-#EXTINF:-1,UK: Alibi
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/16.ts
-#EXTINF:-1,UK: Discovery Science
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/27.ts
-#EXTINF:-1,UK: Discovery Channel
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/29.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/28.ts
-#EXTINF:-1,UK: Dave HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/11.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/24.ts
-#EXTINF:-1,UK: Discovery Shed
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/25.ts
-#EXTINF:-1,UK: Eden
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/20.ts
-#EXTINF:-1,UK: E!
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/9.ts
-#EXTINF:-1,UK: E4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/8.ts
-#EXTINF:-1,UK: Drama
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/10.ts
-#EXTINF:-1,UK: Food Network
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/7.ts
-#EXTINF:-1,UK: H2
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/6.ts
-#EXTINF:-1,UK: ITV 4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1551.ts
-#EXTINF:-1,UK: History HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/5.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1548.ts
-#EXTINF:-1,UK: ITV 2
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1549.ts
-#EXTINF:-1,UK: Really
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2.ts
-#EXTINF:-1,UK: Sky Living
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1.ts
-#EXTINF:-1,UK: Quest
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/3.ts
-#EXTINF:-1,UK: Syfy
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/36.ts
-#EXTINF:-1,VH1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/96.ts
-#EXTINF:-1,UK: ITV 3
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1550.ts
-#EXTINF:-1,UK: Home
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/4.ts
-#EXTINF:-1,UK: ITV Be
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1557.ts
-#EXTINF:-1,UK: ITV Encore
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1558.ts
-#EXTINF:-1,UK: ITV Encore HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1553.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/22.ts
-#EXTINF:-1,UK: Five USA
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1556.ts
-#EXTINF:-1,Yesterday
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/32.ts
-#EXTINF:-1,UK: CHANNEL 5 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1559.ts
-#EXTINF:-1,Watch
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/33.ts
-#EXTINF:-1,UK : RTE NEWS
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/108.ts
-#EXTINF:-1,TG4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/111.ts
-#EXTINF:-1,Sky Two
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/38.ts
-#EXTINF:-1,Comedy Central
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1613.ts
-#EXTINF:-1,Investigation Discovery +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1615.ts
-#EXTINF:-1,w
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1616.ts
-#EXTINF:-1,E! +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1621.ts
-#EXTINF:-1,ITV 1 +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1617.ts
-#EXTINF:-1,ITV 2 +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1618.ts
-#EXTINF:-1,ITV 3 +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1619.ts
-#EXTINF:-1,ITV 4 +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1620.ts
-#EXTINF:-1,Sky Atlantic +1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1622.ts
-#EXTINF:-1,Food Network + 1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1870.ts
-#EXTINF:-1,BBC 1 Scotland
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2069.ts
-#EXTINF:-1,ITV SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2329.ts
-#EXTINF:-1,BBC 1 SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2330.ts
-#EXTINF:-1,POP
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2332.ts
-#EXTINF:-1,Tiny Pop
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2334.ts
-#EXTINF:-1,Kix
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2333.ts
-#EXTINF:-1,TV-3 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/109.ts
-#EXTINF:-1,NBA Live 9
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/220.ts
-#EXTINF:-1,NBA Live 10
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/221.ts
-#EXTINF:-1,US: WWE HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/152.ts
-#EXTINF:-1,USA: UFC Fight pass
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/156.ts
-#EXTINF:-1,US: NBC SPORT
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/154.ts
-#EXTINF:-1,US: NBC Golf HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/155.ts
-#EXTINF:-1,NBA Live 8
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/148.ts
-#EXTINF:-1,NBA Live 7
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/147.ts
-#EXTINF:-1,NBA Live 6
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/146.ts
-#EXTINF:-1,NBA Live 5
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/145.ts
-#EXTINF:-1,NBA Live 4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/144.ts
-#EXTINF:-1,NBA Live 3
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/143.ts
-#EXTINF:-1,NBA Live 2
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/142.ts
-#EXTINF:-1,NBA Live 1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/141.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/126.ts
-#EXTINF:-1,USA | NFL NOW HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/121.ts
-#EXTINF:-1,USA | MLB HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/140.ts
-#EXTINF:-1,USA | LIVE NHL 9 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/139.ts
-#EXTINF:-1,USA | LIVE NHL 8 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/138.ts
-#EXTINF:-1,USA | LIVE NHL 7 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/137.ts
-#EXTINF:-1,USA | LIVE NHL 6 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/136.ts
-#EXTINF:-1,USA | LIVE NHL 5 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/135.ts
-#EXTINF:-1,USA | LIVE NHL 4 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/134.ts
-#EXTINF:-1,USA | LIVE NHL 3 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/133.ts
-#EXTINF:-1,USA | LIVE NHL 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/132.ts
-#EXTINF:-1,USA | LIVE NHL 13 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/131.ts
-#EXTINF:-1,USA | LIVE NHL 12 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/130.ts
-#EXTINF:-1,USA | LIVE NHL Ice EXTRA
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/129.ts
-#EXTINF:-1,USA | LIVE NHL 10 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/128.ts
-#EXTINF:-1,USA | LIVE NHL 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/127.ts
-#EXTINF:-1,USA : Fox Sports 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/149.ts
-#EXTINF:-1,USA : Fox Sports 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/150.ts
-#EXTINF:-1,US: NFL Network HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/125.ts
-#EXTINF:-1,US: NBA TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/124.ts
-#EXTINF:-1,US: ESPN HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/123.ts
-#EXTINF:-1,US: ESPN 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/122.ts
-#EXTINF:-1,US: ESPN
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/151.ts
-#EXTINF:-1,CA: SPORTSNET WORLD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/120.ts
-#EXTINF:-1,CA: SPORTSNET WEST
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/119.ts
-#EXTINF:-1,CA: SPORTSNET PACIFIC
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/118.ts
-#EXTINF:-1,CA: SPORTSNET ONTARIO
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/117.ts
-#EXTINF:-1,CA: SPORTSNET ONE
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/116.ts
-#EXTINF:-1,CA: SPORTSNET EAST
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/115.ts
-#EXTINF:-1,CA: SPORTSNET 360
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/114.ts
-#EXTINF:-1,UFC NEXT
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1869.ts
-#EXTINF:-1,USA : NBC HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/165.ts
-#EXTINF:-1,USA : DIY NETWORK HD**
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/159.ts
-#EXTINF:-1,USA : CNBC HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/162.ts
-#EXTINF:-1,USA: CINEMAX 5
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/158.ts
-#EXTINF:-1,USA: COZI TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/186.ts
-#EXTINF:-1,USA: antenna
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/184.ts
-#EXTINF:-1,US: USA Network HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/163.ts
-#EXTINF:-1,US: TBS HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/164.ts
-#EXTINF:-1,US: SPIKE HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/157.ts
-#EXTINF:-1,US: Showtime Showcase
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/166.ts
-#EXTINF:-1,US: Showtime Extreme
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/167.ts
-#EXTINF:-1,USA: ShowTime 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/168.ts
-#EXTINF:-1,US: ShowTime
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/169.ts
-#EXTINF:-1,USA: OWN HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/170.ts
-#EXTINF:-1,USA: NICKELODEN HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/171.ts
-#EXTINF:-1,USA: Nat Geo Wild
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/172.ts
-#EXTINF:-1,US: NAT GEO
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/173.ts
-#EXTINF:-1,USA: Investigation Discovery
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/174.ts
-#EXTINF:-1,USA: HISTORY
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/175.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/176.ts
-#EXTINF:-1,US: HBO Family HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/177.ts
-#EXTINF:-1,US: HBO
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/178.ts
-#EXTINF:-1,USA: FX HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/183.ts
-#EXTINF:-1,USA: FOX HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/182.ts
-#EXTINF:-1,USA: Discovery Channel HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/160.ts
-#EXTINF:-1,US: Cinemax East
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/161.ts
-#EXTINF:-1,US: BRAVO HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/181.ts
-#EXTINF:-1,USA: Bravo
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/180.ts
-#EXTINF:-1,US: AMC HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/179.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/199.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/200.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/201.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/202.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/203.ts
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/187.ts
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/188.ts
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/189.ts
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/190.ts
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/191.ts
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/192.ts
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/193.ts
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/194.ts
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/195.ts
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/196.ts
-#EXTINF:-1,AR: BEIN SPORT 11 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/197.ts
-#EXTINF:-1,AR: BEIN SPORT 12 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/198.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/205.ts
-#EXTINF:-1,ES: CANAL LIGA TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/206.ts
-#EXTINF:-1,ES: BARCA TV
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/204.ts
-#EXTINF:-1,TR: Bein Sports 1 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2938.ts
-#EXTINF:-1,TR: Bein Sports 2 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2937.ts
-#EXTINF:-1,TR: Bein Sports 3 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2936.ts
-#EXTINF:-1,TR: Bein Sports 4 HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2935.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1525.ts
-#EXTINF:-1,Sky Drama & Romance HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/249.ts
-#EXTINF:-1,Sky Cinema Select HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/248.ts
-#EXTINF:-1,UK: Sky Family HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/255.ts
-#EXTINF:-1,UK: Sky Cinema Sc-Fi & Horror HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/256.ts
-#EXTINF:-1,UK: Sky CInema HERO HD (local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/260.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD Local
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/259.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/258.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/253.ts
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/254.ts
-#EXTINF:-1,Sony Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/217.ts
-#EXTINF:-1,Sky Thriller Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/214.ts
-#EXTINF:-1,True Movies 2 SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/219.ts
-#EXTINF:-1,True Movies 1 SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/218.ts
-#EXTINF:-1,Sky Action Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/213.ts
-#EXTINF:-1,Sky Select Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/215.ts
-#EXTINF:-1,Sky ScFiHorror Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/216.ts
-#EXTINF:-1,Sky Premiere Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/207.ts
-#EXTINF:-1,Sky Movies Drama & Romance SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/211.ts
-#EXTINF:-1,Sky Movies Disney SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/208.ts
-#EXTINF:-1,Sky Hits Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/209.ts
-#EXTINF:-1,Sky Family Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/210.ts
-#EXTINF:-1,Sky Comedy Movies SD
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/212.ts
-#EXTINF:-1,Sky Cinema Premier + 1
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1871.ts
-#EXTINF:-1,Film 4
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/2335.ts
-#EXTINF:-1,SKY SPORTS Premier Leauge HD (local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/245.ts
-#EXTINF:-1,SKY SPORTS The Open HD (local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/244.ts
-#EXTINF:-1,SKY SPORTS Action HD (local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/243.ts
-#EXTINF:-1,SKY SPORTS CRICKET HD (local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/242.ts
-#EXTINF:-1,SKY SPORTS Main Event HD (local)
-http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/241.ts
+
+#EXTINF:-1,SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+ 
+#EXTINF:1,LIGA1
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+
+#EXTINF:1,INDOSIAR
+http://cdn-livetv1.metube.id/hls/indosiar_240/index.m3u8
+
+#EXTINF:1,SCTV_360
+http://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+
+#EXTINF:1,RCTI
+http://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:1,GLOBALTV
+http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+
+#EXTINF:1,MNCTV
+http://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:1,TRANS7
+http://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+
+#EXTINF:1,TRANSTV
+http://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+
+#EXTINF:1,ANTV
+http://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+
+#EXTINF:1,TVONE
+http://cdn-livetv2.metube.id/hls/tvone.m3u8
+
+#EXTINF:1,METROTV
+http://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+
+#EXTINF:1,METROTV_HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w794188647_b1300000_sleng.m3u8
+
+#EXTINF:1,KOMPASTV
+http://stream-03.sg1.dailymotion.com/37/dm/3/x54ozbu/live-2.m3u8
+
+#EXTINF:1,INEWS
+http://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:1,CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:1,BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:1,TVRI_NASIONAL
+http://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+
+#EXTINF:0,RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0,WESAL TV
+http://wowza60.beetecmedia.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:0,SURAU TV
+rtmp://wowza60.indostreamserver.com:1935/surautv/live
+
+#EXTINF:0,TAHFIZH TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+
+#EXTINF:0,AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+
+#EXTINF:0,ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:0,INSAN TV
+http://live.insantv.com/
+
+#EXTINF:0,TVMu
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+
+#EXTINF:0,Astro Sport
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:0,True Vision
+http://103.242.13.90:5555/udp/239.4.1.149:10000
+
+#EXTINF:0,FOX SPORT
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+
+#EXTINF:0, FOX SPORT 2
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+
+#EXTINF:0,Fox Sports 3 HD
+http://103.242.13.90:5555/udp/239.4.1.44:10000
+
+#EXTINF:0,CCTV 5
+http://103.242.13.90:5555/udp/239.4.1.66:10000
+
+#EXTINF:0,Fox Action Movies
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+
+#EXTINF:0,07-2 MYTV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+
+#EXTINF:0,CTN
+http://103.242.13.90:5555/udp/239.4.1.57:10000
+
+#EXTINF:0,CNC
+http://103.242.13.90:5555/udp/239.4.1.55:10000
+
+#EXTINF:0,Discovery World HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+
+#EXTINF:0,Cartoon Network
+http://103.242.13.90:5555/udp/239.4.1.52:10000
+
+#EXTINF:0,NGC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
+
+#EXTINF:0,Neo Geo Wild
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+
+#EXTINF:0,FOX HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+
+#EXTINF:0,STAR WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.82:10000
+
+#EXTINF:0,FOX MOVIES PREMIER
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+
+#EXTINF:0,RT HD
+http://103.242.13.90:5555/udp/239.4.1.98:10000
+
+#EXTINF:0,CNN Asia
+http://103.242.13.90:5555/udp/239.4.1.105:10000
+
+#EXTINF:0,Setanta TV HD
+http://103.242.13.90:5555/udp/239.4.1.132:10000
+
+#EXTINF:0,FTV UHD ASIA
+http://103.242.13.90:5555/udp/239.4.1.45:10000
+
+#EXTINF:0,CNC World-English
+http://103.242.13.90:5555/udp/239.4.1.59:10000
+
+#EXTINF:0,Discovery Channel 
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+
+#EXTINF:0,BBC_AV
+http://103.242.13.90:5555/udp/239.4.1.70:10000
+
+#EXTINF:0,MTV China-OTT
+http://103.242.13.90:5555/udp/239.4.1.71:10000
+
+#EXTINF:0,YUNNAN-1
+http://103.242.13.90:5555/udp/239.4.1.92:10000
+
+#EXTINF:0,YTN
+http://103.242.13.90:5555/udp/239.4.1.73:10000
+
+#EXTINF:0,HubeiTV
+http://103.242.13.90:5555/udp/239.4.1.4:10000
+
+#EXTINF:0,JSWS
+http://103.242.13.90:5555/udp/239.4.1.1:10000
+
+#EXTINF:0,FJTV
+http://103.242.13.90:5555/udp/239.4.1.7:10000
+
+#EXTINF:0,Sichuan
+http://103.242.13.90:5555/udp/239.4.1.27:10000
+
+#EXTINF:0,CCTV 13
+http://103.242.13.90:5555/udp/239.4.1.14:10000
+
+#EXTINF:0,Tianjin TV
+http://103.242.13.90:5555/udp/239.4.1.25:10000
+
+#EXTINF:0,Phoenix Chinese 
+http://103.242.13.90:5555/udp/239.4.1.35:10000
+
+#EXTINF:0,Hunan - (Hua Yu)
+http://103.242.13.90:5555/udp/239.4.1.41:10000
+
+#EXTINF:0,CNN
+http://103.242.13.90:5555/udp/239.4.1.54:10000
+
+#EXTINF:0,Fashion TV SD
+http://103.242.13.90:5555/udp/239.4.1.51:10000
+
+#EXTINF:0,CCTV 3
+http://103.242.13.90:5555/udp/239.4.1.53:10000
+
+#EXTINF:0,PNN Service HD
+http://103.242.13.90:5555/udp/239.4.1.58:10000
+
+#EXTINF:0,ARY Musik
+http://103.242.13.90:5555/udp/239.4.1.65:10000
+
+#EXTINF:0,NHK
+http://103.242.13.90:5555/udp/239.4.1.68:10000
+#EXTINF:0,CCTV 6
+http://103.242.13.90:5555/udp/239.4.1.67:10000
+
+#EXTINF:0,EURONEWS-ASIA
+http://103.242.13.90:5555/udp/239.4.1.75:10000
+
+#EXTINF:0,CCTV 8
+http://103.242.13.90:5555/udp/239.4.1.78:10000
+
+#EXTINF:0,ArirangTV W2
+http://103.242.13.90:5555/udp/239.4.1.74:10000
+
+#EXTINF:0,Australia Plus
+http://103.242.13.90:5555/udp/239.4.1.79:10000
+
+#EXTINF:0,France 24 (en Francais)
+http://103.242.13.90:5555/udp/239.4.1.89:10000
+
+#EXTINF:0,SZTV
+http://103.242.13.90:5555/udp/239.4.1.91:10000
+
+#EXTINF:0,TVS2
+http://103.242.13.90:5555/udp/239.4.1.95:10000
+
+#EXTINF:0,Rai Italia Asia
+http://103.242.13.90:5555/udp/239.4.1.87:10000
+
+#EXTINF:0,France 24
+http://103.242.13.90:5555/udp/239.4.1.88:10000
+
+#EXTINF:0,BON - DW
+http://103.242.13.90:5555/udp/239.4.1.99:10000
+
+#EXTINF:0,Eurosport-OTT
+http://103.242.13.90:5555/udp/239.4.1.108:10000
+
+#EXTINF:0,MITV
+http://103.242.13.90:5555/udp/239.4.1.104:10000
+
+#EXTINF:0,TV5
+http://103.242.13.90:5555/udp/239.4.1.204:10000
+
+#EXTINF:0,TV3
+http://103.242.13.90:5555/udp/239.4.1.203:10000
+
+#EXTINF:0,NTV
+http://103.242.13.90:5555/udp/239.4.1.205:10000
+
+#EXTINF:0,ASIA TELEVISION
+http://103.242.13.90:5555/udp/239.4.1.206:10000
+
+#EXTINF:0,Hang Meas
+http://103.242.13.90:5555/udp/239.4.1.211:10000
+
+#EXTINF:0,TVK
+http://103.242.13.90:5555/udp/239.4.1.201:10000
+
+#EXTINF:0,TV9 HD
+http://103.242.13.90:5555/udp/239.4.1.200:10000
+
+#EXTINF:0,BAYON BTV
+http://103.242.13.90:5555/udp/239.4.1.210:10000
+
+#EXTINF:0,TV3 Asia
+http://103.242.13.90:5555/udp/239.4.1.214:10000
+
+#EXTINF:0,CNBC Asia NTSC
+http://103.242.13.90:5555/udp/239.4.1.217:10000
+
+#EXTINF:0,Hang Meas News
+http://103.242.13.90:5555/udp/239.4.1.216:10000
+
+#EXTINF:0,Nice TV HD
+http://103.242.13.90:5555/udp/239.4.1.218:10000
+
+#EXTINF:0,BloombergAV
+http://103.242.13.90:5555/udp/239.4.1.236:10000
+
+#EXTINF:0,CQTV
+http://103.242.13.90:5555/udp/239.4.1.26:10000
+
+#EXTINF:0,CCTV 10
+http://103.242.13.90:5555/udp/239.4.1.17:10000
+
+#EXTINF:0,HKS-HD
+http://103.242.13.90:5555/udp/239.4.1.64:10000
+
+#EXTINF:0,Phx Infonews Channel
+http://103.242.13.90:5555/udp/239.4.1.31:10000
+
+#EXTINF:0,MAS tv
+http://103.242.13.90:5555/udp/239.4.1.60:10000
+
+#EXTINF:-1,MUSIC METAL HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+#EXTINF:-1,MUSIC DANCE HD
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+
+#EXTINF:-1,MUSIC POP HITS HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+#EXTINF:-1,MUSIC ROCK HD
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 
 #EXTINF:-1,beinsport1
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/147.ts
+
 #EXTINF:-1,beinsport2
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/148.ts
+
 #EXTINF:-1,beinsport3
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/149.ts
+
 #EXTINF:-1,beinsport4
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/150.ts
+
 #EXTINF:-1,beinsport5
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/151.ts
+
 #EXTINF:-1,beinsport6
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/587.ts
+
 #EXTINF:-1,beinsport7
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/588.ts
+
 #EXTINF:-1,beinsport8
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/589.ts
+
 #EXTINF:-1,beinsport9
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/590.ts
+
 #EXTINF:-1,beinsport10
 http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/591.ts
-#EXTINF:0,BEIN SPORTS USA
-http://thepk.co:2086/live/byron/12345/352.ts
-#EXTINF:0,BEIN SPORTS HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2298.ts
-#EXTINF:0,BEIN SPORT Ñ
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1975.ts
-#EXTINF:0,BEIN SPORTS LA LIGA HD.
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/12946.ts
-#EXTINF:0,BEIN SPORTS LA LIGA HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2370.ts
-#EXTINF:0,ES:_Bein Sportpana
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/12948.ts
-#EXTINF:0,ES:_bein SPORTS HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/12947.ts
-#EXTINF:0,Bein Sport
-http://163.172.99.155:25461/live/1234/1234/130.ts
-#EXTINF:0,Bein Sports Español
-http://163.172.99.155:25461/live/1234/1234/255.ts
-#EXTINF:0,AR: BEIN SPORT GLOBAL
-#EXTINF:0,Fox Sports 1 USA
-http://thepk.co:2086/live/byron/12345/188.ts
-#EXTINF:0,Fox Sports 2 USA
-http://thepk.co:2086/live/byron/12345/187.ts
-#EXTINF:0,Fox Sports News AU
-http://thepk.co:2086/live/byron/12345/7510.ts
-#EXTINF:0,Fox Sports North USA
-http://thepk.co:2086/live/byron/12345/3072.ts
-#EXTINF:0,Fox Sports Ohio
-http://thepk.co:2086/live/byron/12345/8674.ts
-#EXTINF:0,Latino | Fox Sports
-http://thepk.co:2086/live/byron/12345/5186.ts
-#EXTINF:0,Latino | Fox Sports 2 HD
-http://thepk.co:2086/live/byron/12345/5187.ts
-#EXTINF:0,Fox Sports Arizona USA
-http://thepk.co:2086/live/byron/12345/13403.ts
-#EXTINF:0,FOX SPORTS 1 HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2263.ts
-#EXTINF:0,FOX SPORTS 2 HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2238.ts
-#EXTINF:0,FOX SPORTS 3 HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/11431.ts
-#EXTINF:0,FOX SPORTS PREMIUM HD.
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/11430.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORT2
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2688.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORT1
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2689.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORTS 3
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2684.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORTS 2
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2685.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORTS
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2686.ts
-#EXTINF:0,LA_HD_MEX:FOX SPORT2_
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2687.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORT2
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2920.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORT2_
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2919.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORTS
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2918.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORTS 2
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2917.ts
-#EXTINF:0,LA_SD_MEX:FOX SPORTS 3
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2916.ts
-#EXTINF:0,LA_LHD:FOX_SPORTS_HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/15086.ts
-#EXTINF:0,LA_LHD:FOX_SPORTS2_HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/15088.ts
-#EXTINF:0,LA_LHD:FOX_SPORTS3_HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/15087.ts
-#EXTINF:0,FOX SPORTS SD ARG
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1591.ts
-#EXTINF:0,FOX SPORTS 2 ARG SD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1501.ts
-#EXTINF:0,FOX SPORTS 3 ARG SD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1690.ts
-#EXTINF:0,FOX SPORTS 1 ARG HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2250.ts
-#EXTINF:0,FOX SPORTS 2 ARG HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1951.ts
-#EXTINF:0,FOX SPORTS 3 ARG HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1950.ts
-#EXTINF:0,FOX SPORTS 2 ARG FHD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2249.ts
-#EXTINF:0,FOX SPORTS 3 ARG FHD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2248.ts
-#EXTINF:0,FOX SPORTS PY
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1878.ts
-#EXTINF:0,FOX SPORTS 2 MX
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1726.ts
-#EXTINF:0,FOX SPORTS 3 MX
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1725.ts
-#EXTINF:0,FOX SPORT SUR
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1665.ts
-#EXTINF:0,FOX SPORTS PREMIUM HD CR:
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2243.ts
-#EXTINF:0,FOX SPORTS CHILE SD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1713.ts
-#EXTINF:0,FOX SPORTS COLOMBIA
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1547.ts
-#EXTINF:0,FOX SPORTS MEX SD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1724.ts
-#EXTINF:0,FOX SPORTS ARGENTINA
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1714.ts
-#EXTINF:0,FOX SPORTS PREMIUM ARG SD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/8609.ts
-#EXTINF:0,FOX SPORTS PREMIUM ARG HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/7270.ts
-#EXTINF:0,FOX SPORTS 1 HD ARG
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1952.ts
-#EXTINF:0,FOX SPORT HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1904.ts
-#EXTINF:0,FOX SPORTS BRASIL
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/8693.ts
-#EXTINF:0,FOX SPORTS 2 BRASIL
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/8692.ts
-#EXTINF:0,FOX SPORTS MEX HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2235.ts
-#EXTINF:0,FOX SPORTS 2 MEX HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2234.ts
-#EXTINF:0,FOX SPORTS 3 MEX HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2233.ts
-#EXTINF:0,FOX SPORTS PREMIUM SUR HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1877.ts
-#EXTINF:0,FOX SPORTS 2 COLOMBIA HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2244.ts
-#EXTINF:0,FOX SPORTS CHILE HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2246.ts
-#EXTINF:0,FOX SPORTS PREMIUM CHILE HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2245.ts
-#EXTINF:0,FOX SPORT VEN
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/1704.ts
-#EXTINF:0,FOX SPORTS 2 VENEZUELA HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2241.ts
-#EXTINF:0,FOX SPORTS 3 VENEZUELA HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2240.ts
-#EXTINF:0,FOX SPORTS PREMUM VENEZUELA HD
-http://iptvparatodos.net:38953/live/izqui/gdRGljn1it/2242.ts
-#EXTINF:0,Fox Sports 1
-http://163.172.99.155:25461/live/1234/1234/123.ts
-#EXTINF:0,Fox Sports 2
-http://163.172.99.155:25461/live/1234/1234/124.ts
-#EXTINF:0,Fox Sports Brazil
-http://163.172.99.155:25461/live/1234/1234/2538.ts
-#EXTINF:0,NL: FOX Sport 6 HD
-http://62.210.151.143:13000/live/11/11/25936.ts
-#EXTINF:0,NL: FOX Sports 1 HD
-http://62.210.151.143:13000/live/11/11/25935.ts
-#EXTINF:0,NL: FOX Sports 2 HD
-http://62.210.151.143:13000/live/11/11/25934.ts
-#EXTINF:0,NL: FOX Sports 3
-http://62.210.151.143:13000/live/11/11/25933.ts
-#EXTINF:0,NL: FOX Sports 4 HD
-http://62.210.151.143:13000/live/11/11/25932.ts
-#EXTINF:0,NL: FOX Sports 5 HD
-http://62.210.151.143:13000/live/11/11/25931.ts
-#EXTINF:0,IT: Fox Sport HD Italia
-http://62.210.151.143:13000/live/11/11/25968.ts
-#EXTINF:0,Fox Sports 1 Eredivisie
-http://164.132.200.17:8080/live/elcin67/elcin67/183.ts
-#EXTINF:0,Fox Sports 2 Eredivisie
-http://164.132.200.17:8080/live/elcin67/elcin67/184.ts
-#EXTINF:0,Fox Sports 3 Eredivisie
-http://164.132.200.17:8080/live/elcin67/elcin67/185.ts
-#EXTINF:0,Fox Sports 4 Eredivisie
-http://164.132.200.17:8080/live/elcin67/elcin67/650.ts
-#EXTINF:0,FOX SPORTS 2 HD
-http://servidoriptv.mine.nu:37001/live/wilson/wilson/2533.ts
-#EXTINF:0,FOX SPORTS 2 SD
-http://servidoriptv.mine.nu:37001/live/wilson/wilson/2464.ts
-#EXTINF:0,FOX SPORTS HD
-http://servidoriptv.mine.nu:37001/live/wilson/wilson/2463.ts
-#EXTINF:0,FOX SPORTS SD
-http://servidoriptv.mine.nu:37001/live/wilson/wilson/2462.ts
-#EXTINF:0,CINE AR
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15542.ts
-#EXTINF:0,CIUDAD MAGAZINE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/14921.ts
-#EXTINF:0,CRONICA TV HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/15374.ts
-#EXTINF:0,EL NUEVE
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1898.ts
-#EXTINF:0,EL TRECE HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1897.ts
-#EXTINF:0,EL TRECE INTERNACIONAL
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1548.ts
-#EXTINF:0,ENCUENTRO
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/1820.ts
-#EXTINF:0,FOX SPORTS 1 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2263.ts
-#EXTINF:0,FOX SPORTS 2 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/2238.ts
-#EXTINF:0,FOX SPORTS 3 HD
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/11431.ts
-#EXTINF:0,FOX SPORTS PREMIUM HD.
-http://iptvparatodos.net:38953/live/AngelicaMa/Mtech/11430.ts
+
+#EXTINF:-1, ARENA SPORT 1
+http://46.40.5.99:8000/arena_1_high
+
+#EXTINF:-1, ARENA SPORT 2
+http://46.40.5.99:8000/arena_2_high
+
+#EXTINF:-1, ARENA SPORT 3
+http://46.40.5.99:8000/arena_3_high
+
+#EXTINF:-1, ARENA SPORT 4
+http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-,AD SPORT 1 HD (Arab)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,AD SPORT 2 HD (Arab)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,YAS Sports HD (Arab)
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:-1,SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+
+#EXTINF:-1,SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1,SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+
+#EXTINF:-1,SONY ESPN HD
+http://cshms2.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221226076/01.m3u8
+
+#EXTINF:0,(VN) VTV 1 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 3 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 4 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 5 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 6 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 7 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 8 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
+
+#EXTINF:0,(TH) CHANNEL 2 THAI
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:0,(TH) CHANNEL 8 THAI
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:0,(TH) SABAIDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:0,(TH) YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:0,(TH) THAI TV5
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+
+#EXTINF:0,(TH) AMARIN HD 34
+http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
+
+#EXTINF:0,(TH) THAIRATH TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:0,(TH) THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:0,(TH) ONE HD 31
+http://one31-rlbwkq.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:0,(TH) SPRING NEWS
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:0,(TH) M CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:0,(TH) BLUESKY CHANNEL
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+
+#EXTINF:0,(TH) CH 3 SD
+http://ch3-28.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:0,(TH) CH 3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0,(TH) CH 3 FAMILY
+http://ch3-13.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0,(IN) SONY ROX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+
+#EXTINF:0,(IN) SONY PIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+
+#EXTINF:0,(IN) SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
+
+#EXTINF:0,(IN) SONY LE PLEX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+ 
+#EXTINF:-1,ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1,ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+
+#EXTINF:0,(IN) SONY BBC EARTH HD
+http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:0,(IN) SONY BBC EARTH SD
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY TURBO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY SCEINCE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY CHANNEL
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
+
+#EXTINF:0,(IN) ANIMAL PLANET
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY KIDS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
+
+#EXTINF:0,(IN) ANIMAL PLANET HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+
+#EXTINF:0,(IN) TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
+
+#EXTINF:0,(IN) TLC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+
+EXTINF:0,(IN) D SPORTS HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+
+#EXTINF:0,(IN) D SPORTS SD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:0,(IN) AXN
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+
+#EXTINF:0,(IN) AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
+
+#EXTINF:0,(IN) 9X MUSIC
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8
+
+#EXTINF:0,(IN) & TV HD
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+
+#EXTINF:0,(IN) & PICTURES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
+
+#EXTINF:0,(IN) & PICTURES HD
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8
+
+#EXTINF:0,(IN) DD NEWS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226377/index.m3u8
+
+#EXTINF:0,(IN) DD SPORTS
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
+
+#EXTINF:0,(IN) TRAVEL XP
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+
+#EXTINF:0,(IN) NEO SPORTS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
+
+#EXTINF:0,(IN) NEO PRIME
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
+
+#EXTINF:0,(IN) DESI BEATS HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+#EXTINF:0,(IN) WOW HINDI MUSIC
+http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/index.m3u8
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/Y3eYOc2.png" tvg-id="99a8abb97931376ef79cb3ef389d47b2",SPOTV ON
+http://106.247.64.206:9981/stream/channelid/967551129?ticket=1FA032B84DCCFDA107200F2A012CFD3AAF647ECC&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/jbdurz4.png" tvg-id="094e10680693c49c4b53b8478027e099",SPOTV ON2
+http://106.247.64.206:9981/stream/channelid/1745899017?ticket=DCBEF9CA6687AB46619836909F4CE30351A3648D&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/xspD7UE.png" tvg-id="beff98771a3b4c1cda4cc922492c9c35",KBS N Sports
+http://106.247.64.206:9981/stream/channelid/2006515646?ticket=3AE5F42463D805081057550FFDDF33CC4FC2C16D&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/j1vHAu6.png" tvg-id="935c5415a2e7e6b0ce673a294da6e512",SBS Sports
+http://106.247.64.206:9981/stream/channelid/357850259?ticket=E4234175609157A133761D735160C948D1A7C0D3&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/j1vHAu6.png" tvg-id="1d418edc194915916d5c73d0005e08a6",SBS Sports
+http://121.137.233.208:9981/stream/channelid/1552826653?ticket=B034DA1CF28E57511AD79C2E440D7604E80A7354&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/j1vHAu6.png" tvg-id="30b5177cb1cd55633f18a4f3151e123c",SBS Sports
+http://121.137.233.208:9981/stream/channelid/2081928496?ticket=0DECEE49B21B5F7A8EC59BCD6B095AF0225F06B3&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/joWd14j.png" tvg-id="f50f33bbe08fb304fdde496129ab3510",머니투데이방송
+http://106.247.64.206:9981/stream/channelid/993202165?ticket=4EDBAEF2BA8D03F3E7FF566605A2BA0508916575&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/Su21uj3.png" tvg-id="59cc1dc427dd05b8315c69d32954ed77",MBC SPORTS+
+http://106.247.64.206:9981/stream/channelid/1142803545?ticket=3F40A1B2D16FC20F97B0A75427F10F9E63C7AC88&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/frAuUS3.png" tvg-id="827ee60b56540a8855161e567378299e",MBC SPORTS+2
+http://106.247.64.206:9981/stream/channelid/199655042?ticket=8990649AF7A69EB97468CDDE77E5AED9202B3C1D&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/KvGwEc1.png" tvg-id="7c7ec367203616fc8168525123bb1372",JTBC3
+http://106.247.64.206:9981/stream/channelid/1740865148?ticket=2D331D13DF711184053CC9DD3CF280506147A2FB&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/81Fshnn.png" tvg-id="0d34a69dd04e05b7287935d73b093011",SPOTV+
+http://106.247.64.206:9981/stream/channelid/497431565?ticket=B833A1A8CCFF069008873D141FDE41E02E329778&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/GNicmGY.png" tvg-id="67181cdd959a80a6e6cb92faa18918b4",SPOTV2
+http://106.247.64.206:9981/stream/channelid/1562122343?ticket=4CC97886D4EC783DD1482870131478D77AA98202&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/wOOQEC1.png" tvg-id="b6ae8aba401e579271d777fba55d5f00",IB SPORTS
+http://106.247.64.206:9981/stream/channelid/982167222?ticket=9CC58CAE221D42A7DB0571569F562EE1EC7BB2F2&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/f0OW8wX.png" tvg-id="2484968d9bd6f93730473c3fed751787",빌리어즈티비
+http://106.247.64.206:9981/stream/channelid/227968036?ticket=4BFF07BEBE95A0095C0BAC20B21CCD378A9836D8&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/HdS0GNV.png" tvg-id="6b2eaaf18a0d1e94f2adb58f85caad81",SBS GOLF
+http://106.247.64.206:9981/stream/channelid/1906978411?ticket=139773DBF518D40B7DB8BCD9304291BCA089E0A6&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/Bnw7O5U.png" tvg-id="6be8014cc976f8b767e76d74d3e57e55",JTBC Golf
+http://106.247.64.206:9981/stream/channelid/1275193451?ticket=BCC06A1FB7B3654CA3B372DA61C9561E2B4010BF&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/3VlCrJ7.png" tvg-id="d2be5d6c7fb9836415887c934f8f8661",The Golf Channel
+http://106.247.64.206:9981/stream/channelid/1818083026?ticket=BD41D6F4F2EFFD77354BFB54F42F83C047AC1D6E&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/tLtSTaq.png" tvg-id="c75c3869fd3fae4576b0a27142014772",OGN
+http://106.247.64.206:9981/stream/channelid/1765301447?ticket=A16CD266CA730C8F9075FCDC28F6F35561B1C537&profile=pass
+
+#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/5IMfa6N.png" tvg-id="bc66a78d06aac6e7771d3efc687829af",SPOTV Games
+http://106.247.64.206:9981/stream/channelid/229074620?ticket=3014CD8387E3F3715C5E3668D2FB58F9558E514F&profile=pass
+
+#EXTINF:-1 group-title="WORLD TV",E! Entertainment TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/897/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Star Family
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/968/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Fashion TV Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/298/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Fashion One HD Europe
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/328/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Cosmopolitan TV Europa HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/570/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Cosmopolitan TV Europa HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/571/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Fashion
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/625/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Da Vinci Learning
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/32/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Viasat Explore
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/38/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Viasat Explore
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/39/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Viasat History
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/40/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Nat Geo Wild Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/56/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Outdoor Channel International
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/91/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",RTG TV Russian Travel Guide
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/99/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Animal Planet Russia HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/110/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Nat Geo Wild HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/150/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Discovery Channel Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/217/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Discovery Channel Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/218/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Discovery Turbo Xtra
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/220/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Investigation Discovery Xtra Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/224/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",National Geographic Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/232/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Discovery Science Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/280/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",HD Life
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/288/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Discovery Channel Russia HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/290/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Fine Living
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/296/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Food Network Russia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/310/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Planete+ Polska HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/386/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Active Family
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/393/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV",Nat Geo Wild Europe HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/397/index.m3u8
+
+
+
 
 
 
