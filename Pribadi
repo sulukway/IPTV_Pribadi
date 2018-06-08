@@ -22,7 +22,13 @@ http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221
 
 #EXTINF:-1,SONY TEN3 SD
 http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
- 
+
+#EXTINF:-1,Usee Sport 720
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+
+#EXTINF:-1,Usee Sport 360
+http://edge.telin.useetv.com/sc/useesport_360p.m3u8
+
 #EXTINF:1,LIGA1
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 
