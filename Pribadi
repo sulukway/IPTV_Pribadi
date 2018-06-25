@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_Zoiper Click2Dial952100745ES/PLTV/88888888/224/3221226076/01.m3u8
- 
-#EXTINF:-1,SONY ESPN
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
-
-#EXTINF:-1,SONY TEN1 HD
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
- 
-#EXTINF:-1,SONY TEN2 HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
- 
-#EXTINF:-1,SONY TEN3 HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
-
-#EXTINF:-1,SONY TEN1 SD
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
- 
-#EXTINF:-1,SONY TEN2 SD
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-
-#EXTINF:-1,SONY TEN3 SD
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
-
 #EXTINF:-1,Usee Sport 720
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 
@@ -103,6 +79,17 @@ http://live.insantv.com/
 
 #EXTINF:0,TVMu
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD (NEW by SW)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
 #EXTINF:0,Astro Sport
 http://103.242.13.90:5555/udp/239.4.1.148:10000
@@ -316,51 +303,6 @@ http://103.242.13.90:5555/udp/239.4.1.64:10000
 #EXTINF:0,Phx Infonews Channel
 http://103.242.13.90:5555/udp/239.4.1.31:10000
 
-#EXTINF:0,MAS tv
-http://103.242.13.90:5555/udp/239.4.1.60:10000
-
-#EXTINF:-1,MUSIC METAL HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-
-#EXTINF:-1,MUSIC DANCE HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-
-#EXTINF:-1,MUSIC POP HITS HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-
-#EXTINF:-1,MUSIC ROCK HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-
-#EXTINF:-1,beinsport1
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/147.ts
-
-#EXTINF:-1,beinsport2
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/148.ts
-
-#EXTINF:-1,beinsport3
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/149.ts
-
-#EXTINF:-1,beinsport4
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/150.ts
-
-#EXTINF:-1,beinsport5
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/151.ts
-
-#EXTINF:-1,beinsport6
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/587.ts
-
-#EXTINF:-1,beinsport7
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/588.ts
-
-#EXTINF:-1,beinsport8
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/589.ts
-
-#EXTINF:-1,beinsport9
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/590.ts
-
-#EXTINF:-1,beinsport10
-http://uzmanhd.com:8000/live/mce43/BfcuojvAhD/591.ts
-
 #EXTINF:-1,ARENA SPORT 1
 http://46.40.5.99:8000/arena_1_high
 
@@ -378,24 +320,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1,AD SPORT 2 HD (Arab)
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1,YAS Sports HD (Arab)
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-
-#EXTINF:-1,SONY TEN1 HD
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
-
-#EXTINF:-1,SONY TEN2 HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1,SONY TEN3 HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
-
-#EXTINF:-1,SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
-
-#EXTINF:-1,SONY ESPN HD
-http://cshms2.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221226076/01.m3u8
 
 #EXTINF:0,(VN) VTV 1 HD
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
@@ -481,15 +405,6 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 #EXTINF:0,(IN) SONY LE PLEX HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
-#EXTINF:-1,Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
- 
-#EXTINF:-1,ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
- 
-#EXTINF:-1,ESPN2 HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
-
 #EXTINF:0,(IN) SONY BBC EARTH HD
 http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
 
@@ -522,196 +437,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 
 #EXTINF:0,(IN) TLC HD WORLD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-
-EXTINF:0,(IN) D SPORTS HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
-
-#EXTINF:0,(IN) D SPORTS SD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-
-#EXTINF:0,(IN) AXN
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
-
-#EXTINF:0,(IN) AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
-
-#EXTINF:0,(IN) 9X MUSIC
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226053/index.m3u8
-
-#EXTINF:0,(IN) & TV HD
-http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
-
-#EXTINF:0,(IN) & PICTURES
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
-
-#EXTINF:0,(IN) & PICTURES HD
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/index.m3u8
-
-#EXTINF:0,(IN) DD NEWS
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226377/index.m3u8
-
-#EXTINF:0,(IN) DD SPORTS
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
-
-#EXTINF:0,(IN) TRAVEL XP
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
-
-#EXTINF:0,(IN) NEO SPORTS
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
-
-#EXTINF:0,(IN) NEO PRIME
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
-
-#EXTINF:0,(IN) DESI BEATS HD
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-
-#EXTINF:0,(IN) WOW HINDI MUSIC
-http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/index.m3u8
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/Y3eYOc2.png" tvg-id="99a8abb97931376ef79cb3ef389d47b2",SPOTV ON
-http://106.247.64.206:9981/stream/channelid/967551129?ticket=1FA032B84DCCFDA107200F2A012CFD3AAF647ECC&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/jbdurz4.png" tvg-id="094e10680693c49c4b53b8478027e099",SPOTV ON2
-http://106.247.64.206:9981/stream/channelid/1745899017?ticket=DCBEF9CA6687AB46619836909F4CE30351A3648D&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/xspD7UE.png" tvg-id="beff98771a3b4c1cda4cc922492c9c35",KBS N Sports
-http://106.247.64.206:9981/stream/channelid/2006515646?ticket=3AE5F42463D805081057550FFDDF33CC4FC2C16D&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/j1vHAu6.png" tvg-id="935c5415a2e7e6b0ce673a294da6e512",SBS Sports
-http://106.247.64.206:9981/stream/channelid/357850259?ticket=E4234175609157A133761D735160C948D1A7C0D3&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/j1vHAu6.png" tvg-id="1d418edc194915916d5c73d0005e08a6",SBS Sports
-http://121.137.233.208:9981/stream/channelid/1552826653?ticket=B034DA1CF28E57511AD79C2E440D7604E80A7354&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/j1vHAu6.png" tvg-id="30b5177cb1cd55633f18a4f3151e123c",SBS Sports
-http://121.137.233.208:9981/stream/channelid/2081928496?ticket=0DECEE49B21B5F7A8EC59BCD6B095AF0225F06B3&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/joWd14j.png" tvg-id="f50f33bbe08fb304fdde496129ab3510",머니투데이방송
-http://106.247.64.206:9981/stream/channelid/993202165?ticket=4EDBAEF2BA8D03F3E7FF566605A2BA0508916575&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/Su21uj3.png" tvg-id="59cc1dc427dd05b8315c69d32954ed77",MBC SPORTS+
-http://106.247.64.206:9981/stream/channelid/1142803545?ticket=3F40A1B2D16FC20F97B0A75427F10F9E63C7AC88&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/frAuUS3.png" tvg-id="827ee60b56540a8855161e567378299e",MBC SPORTS+2
-http://106.247.64.206:9981/stream/channelid/199655042?ticket=8990649AF7A69EB97468CDDE77E5AED9202B3C1D&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/KvGwEc1.png" tvg-id="7c7ec367203616fc8168525123bb1372",JTBC3
-http://106.247.64.206:9981/stream/channelid/1740865148?ticket=2D331D13DF711184053CC9DD3CF280506147A2FB&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/81Fshnn.png" tvg-id="0d34a69dd04e05b7287935d73b093011",SPOTV+
-http://106.247.64.206:9981/stream/channelid/497431565?ticket=B833A1A8CCFF069008873D141FDE41E02E329778&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/GNicmGY.png" tvg-id="67181cdd959a80a6e6cb92faa18918b4",SPOTV2
-http://106.247.64.206:9981/stream/channelid/1562122343?ticket=4CC97886D4EC783DD1482870131478D77AA98202&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/wOOQEC1.png" tvg-id="b6ae8aba401e579271d777fba55d5f00",IB SPORTS
-http://106.247.64.206:9981/stream/channelid/982167222?ticket=9CC58CAE221D42A7DB0571569F562EE1EC7BB2F2&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/f0OW8wX.png" tvg-id="2484968d9bd6f93730473c3fed751787",빌리어즈티비
-http://106.247.64.206:9981/stream/channelid/227968036?ticket=4BFF07BEBE95A0095C0BAC20B21CCD378A9836D8&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/HdS0GNV.png" tvg-id="6b2eaaf18a0d1e94f2adb58f85caad81",SBS GOLF
-http://106.247.64.206:9981/stream/channelid/1906978411?ticket=139773DBF518D40B7DB8BCD9304291BCA089E0A6&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/Bnw7O5U.png" tvg-id="6be8014cc976f8b767e76d74d3e57e55",JTBC Golf
-http://106.247.64.206:9981/stream/channelid/1275193451?ticket=BCC06A1FB7B3654CA3B372DA61C9561E2B4010BF&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/3VlCrJ7.png" tvg-id="d2be5d6c7fb9836415887c934f8f8661",The Golf Channel
-http://106.247.64.206:9981/stream/channelid/1818083026?ticket=BD41D6F4F2EFFD77354BFB54F42F83C047AC1D6E&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/tLtSTaq.png" tvg-id="c75c3869fd3fae4576b0a27142014772",OGN
-http://106.247.64.206:9981/stream/channelid/1765301447?ticket=A16CD266CA730C8F9075FCDC28F6F35561B1C537&profile=pass
-
-#EXTINF:-1 group-title="SPORT" logo="http://i.imgur.com/5IMfa6N.png" tvg-id="bc66a78d06aac6e7771d3efc687829af",SPOTV Games
-http://106.247.64.206:9981/stream/channelid/229074620?ticket=3014CD8387E3F3715C5E3668D2FB58F9558E514F&profile=pass
-
-#EXTINF:-1 group-title="WORLD TV",E! Entertainment TV
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/897/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Star Family
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/968/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Fashion TV Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/298/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Fashion One HD Europe
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/328/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Cosmopolitan TV Europa HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/570/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Cosmopolitan TV Europa HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/571/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Fashion
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/625/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Da Vinci Learning
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/32/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Viasat Explore
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/38/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Viasat Explore
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/39/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Viasat History
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/40/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Nat Geo Wild Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/56/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Outdoor Channel International
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/91/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",RTG TV Russian Travel Guide
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/99/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Animal Planet Russia HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/110/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Nat Geo Wild HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/150/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Discovery Channel Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/217/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Discovery Channel Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/218/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Discovery Turbo Xtra
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/220/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Investigation Discovery Xtra Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/224/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",National Geographic Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/232/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Discovery Science Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/280/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",HD Life
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/288/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Discovery Channel Russia HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/290/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Fine Living
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/296/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Food Network Russia
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/310/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Planete+ Polska HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/386/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Active Family
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/393/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV",Nat Geo Wild Europe HD
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/397/index.m3u8
-
 
 
 
