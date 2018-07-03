@@ -1,7 +1,12 @@
 #EXTM3U
+#EXTINF:-1,SW®→Channel Piala Dunia HD (Usee TV)
+http://sg.ganteng.stream:8888/live/user449/u449/467.ts
+#EXTINF:-1,SW®→Channel Piala Dunia SD (Usee TV)
+http://sg.ganteng.stream:8888/live/user449/u449/566.ts
+#EXTINF:-1,SW®→Usee Sports Liga 1 Gojek
+http://sg.ganteng.stream:8888/live/user449/u449/348.ts
 #EXTINF:-1,Usee Sport 720
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-
 #EXTINF:-1,Usee Sport 360
 http://edge.telin.useetv.com/sc/useesport_360p.m3u8
 
