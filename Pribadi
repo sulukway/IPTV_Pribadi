@@ -12,11 +12,29 @@ http://sg.ganteng.stream:8888/live/user449/u449/467.ts
 #EXTINF:-1,Channel Piala Dunia SD (Usee TV)
 http://sg.ganteng.stream:8888/live/user449/u449/566.ts
 
-#EXTINF:-1,Usee Sports Liga 1 Gojek
-http://sg.ganteng.stream:8888/live/user449/u449/348.ts
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:1,LIGA1
-http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,True Sport 1 HD
+http://iptvthai.webhop.biz:443/hd-tsport1_720/index.m3u8?
+
+#EXTINF:-1,True Sport 2 HD
+http://iptvthai.webhop.biz:443/hd-tsport2_720/index.m3u8?
+
+#EXTINF:-1,True Sport 3 HD
+http://iptvthai.webhop.biz:443/hd-tsport3_720/index.m3u8?
+
+#EXTINF:-1,Bein Sport 1 HD
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+
+#EXTINF:-1,Bein Sport 2 HD
+http://139.99.38.2:443/epl-bein2_1080/index.m3u8
+
+#EXTINF:-1,Bein Sport 3 HD
+http://139.99.38.3:443/epl-bein3_1080/index.m3u8
+
+#EXTINF:-1,Bein Sport 4 HD
+http://139.99.38.2:443/epl-bein4_1080/index.m3u8
 
 #EXTINF:1,INDOSIAR
 http://cdn-livetv1.metube.id/hls/indosiar_240/index.m3u8
