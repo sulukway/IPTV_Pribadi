@@ -10,10 +10,10 @@ http://edge.telin.useetv.com/sc/useesport_360p.m3u8
 http://sg.doohdbox.com:8080/skymotor/mono.m3u8
 
 #EXTINF:-1,Suluk TRUE SPORT HD3
-http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
 
 #EXTINF:-1,Suluk BEIN 1 HD True Vision
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8
 
 #EXTINF:-1,Suluk SONY TEN 2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
