@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Suluk Ch. PIALA DUNIA HD (Usee TV)
-http://103.253.27.151:8888/live/dee/dee/467.ts
-
 #EXTINF:-1,Suluk LIGA GOJEK/ Usee Sport
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 
@@ -14,6 +11,12 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
 
 #EXTINF:-1,Suluk BEIN 1 HD True Vision
 http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+
+#EXTINF:-1,Suluk RTM 1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,Suluk RTM 2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1,Suluk IPM-A Film HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/246.m3u8
@@ -33,8 +36,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-1,Suluk SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
 
-#EXTINF:-1,Suluk SONY ROX HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1,Suluk SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
 #EXTINF:-1,Suluk ASTRO SPORT
 http://103.242.13.90:5555/udp/239.4.1.148:10000
